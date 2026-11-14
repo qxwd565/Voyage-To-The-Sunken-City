@@ -1,0 +1,23 @@
+{
+  "prefixes": {
+    "TSC": {
+      "date": "2022-04-13",
+      "status": "verified"
+    },
+    "TID": {
+      "date": "2022-06-02",
+      "status": "verified"
+    }
+  },
+  "cards": {
+    "TSC_032": {
+      "date": "2022-03-18",
+      "status": "verified"
+    }
+  },
+  "sources": {
+    "TSC": "https://hearthstone.blizzard.com/ko-kr/news/23765277",
+    "TID": "https://hearthstone.blizzard.com/ko-kr/news/23797164",
+    "TSC_032": "https://hearthstone.blizzard.com/ko-kr/news/23765275"
+  }
+}
