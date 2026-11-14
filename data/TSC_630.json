@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_630","dbfId":72415,"name":"분노가시 마술사","type":"MINION","cardClass":"SHAMAN","rarity":"EPIC","collectible":true,"cost":7,"text":"<b>전투의 함성:</b> 내 손에 있는\n화염, 냉기, 자연 주문을 복사하여 시전합니다.\n<i>(대상은 무작위로 선택)</i>","attack":5,"health":4,"durability":0,"armor":0,"flavor":"앞이 보인다면 대상을 선택할 수 있을까요?","spellSchool":"","portrait":"HS25-161_M.tif:313057a90bb046c6879e35381df23636","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":7},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/TSC_630.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-161_M.tif:313057a90bb046c6879e35381df23636","goldenMaterial":"TSC_630_PremiumCard.mat:77480f317d8fd3847b206278ed7c0fec","goldenAnimation":"TSC_630_PremiumCard.asset:e50c0e3ad63b27741aa75d6cbf9aa64e"}}
+{
+  "2022-04-13": {
+    "id": "TSC_630",
+    "dbfId": 72415,
+    "name": "분노가시 마술사",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>전투의 함성:</b> 내 손에 있는<br></br>화염, 냉기, 자연 주문을 복사하여 시전합니다.<br></br><i>(대상은 무작위로 선택)</i>",
+    "attack": 5,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "앞이 보인다면 대상을 선택할 수 있을까요?",
+    "spellSchool": "",
+    "portrait": "HS25-161_M.tif:313057a90bb046c6879e35381df23636",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/TSC_630.png"
+  }
+}

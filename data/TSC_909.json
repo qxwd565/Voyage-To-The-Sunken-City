@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_909","dbfId":72105,"name":"투스카르르 어부","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> <b>인양</b>","attack":2,"health":3,"durability":0,"armor":0,"flavor":"\"물고기 비늘도 쓸모없고, 묘비도 쓸모없지. 수수께끼 상자도 쓸모없어. 찾았다! 다아앛이야!\"","spellSchool":"","portrait":"HS25-075_M.tif:3ba567fd75b042d1a4650dd15b8c37b0","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":23},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2332,"name":"인양","value":1}],"races":["PIRATE"],"race":"해적","classes":[],"art":"art/TSC_909.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-075_M.tif:3ba567fd75b042d1a4650dd15b8c37b0","goldenMaterial":"TSC_909_PremiumCard.mat:532bb84ec872180429b2006d4ad97d7c","goldenAnimation":"TSC_909_PremiumCard.asset:4e62f7a8b1d79d945b2fd33dde7ee1a9"}}
+{
+  "2022-04-13": {
+    "id": "TSC_909",
+    "dbfId": 72105,
+    "name": "투스카르르 어부",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> <b>인양</b>",
+    "attack": 2,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"물고기 비늘도 쓸모없고, 묘비도 쓸모없지. 수수께끼 상자도 쓸모없어. 찾았다! 다아앛이야!\"",
+    "spellSchool": "",
+    "portrait": "HS25-075_M.tif:3ba567fd75b042d1a4650dd15b8c37b0",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 23
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2332,
+        "name": "인양",
+        "value": 1
+      }
+    ],
+    "races": [
+      "PIRATE"
+    ],
+    "race": "해적",
+    "classes": [],
+    "art": "art/TSC_909.png"
+  }
+}

@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TID_080","dbfId":76261,"name":"먹물장막 잠복꾼","type":"MINION","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":2,"text":"<b>은신</b>, 공격할 때\n공격력을 +3 얻고\n<b>면역</b> 상태가 됩니다.","attack":1,"health":2,"durability":0,"armor":0,"flavor":"착각하고 계시군요. 겁먹은 <i>당신</i>에게 먹물을 뿜는 겁니다.","spellSchool":"","portrait":"HS25-214_M.tif:2a3d0afc44ca48b08fc8cff370ff5db2","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":2},{"id":191,"name":"은신","value":1},{"id":199,"name":"직업","value":7},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":240,"name":"면역","value":1},{"id":321,"name":"수집 가능","value":1},{"id":373,"name":"공격 중 면역","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/TID_080.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-214_M.tif:2a3d0afc44ca48b08fc8cff370ff5db2","goldenMaterial":"TID_080_PremiumCard.mat:042ad58774dac614092d98b54201b7e0","goldenAnimation":"TID_080_PremiumCard.asset:93d7151f4adfd614bacd9d983286ce69"}}
+{
+  "2022-06-02": {
+    "id": "TID_080",
+    "dbfId": 76261,
+    "name": "먹물장막 잠복꾼",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>은신</b>, 공격할 때<br></br>공격력을 +3 얻고<br></br><b>면역</b> 상태가 됩니다.",
+    "attack": 1,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "착각하고 계시군요. 겁먹은 <i>당신</i>에게 먹물을 뿜는 겁니다.",
+    "spellSchool": "",
+    "portrait": "HS25-214_M.tif:2a3d0afc44ca48b08fc8cff370ff5db2",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 191,
+        "name": "은신",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 240,
+        "name": "면역",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 373,
+        "name": "공격 중 면역",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/TID_080.png"
+  }
+}

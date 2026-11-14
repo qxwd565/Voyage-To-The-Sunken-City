@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_076t","dbfId":80113,"name":"훼손된 석상","type":"MINION","cardClass":"PALADIN","collectible":false,"cost":1,"text":"<b>도발</b>","attack":1,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-218_M.tif:d4818140ddf543e986c2c8db2cd75441","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":5},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/TSC_076t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-218_M.tif:d4818140ddf543e986c2c8db2cd75441","goldenMaterial":"TSC_076t_PremiumCard.mat:73bb8cd57e8c22e47876c47538126831","goldenAnimation":"TSC_076t_PremiumCard.asset:4d812f34f84a33f4ab0fa999f69cf726"}}
+{
+  "2022-04-13": {
+    "id": "TSC_076t",
+    "dbfId": 80113,
+    "name": "훼손된 석상",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>도발</b>",
+    "attack": 1,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-218_M.tif:d4818140ddf543e986c2c8db2cd75441",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/TSC_076t.png"
+  }
+}

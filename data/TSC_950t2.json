@@ -1,1 +1,73 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_950t2","dbfId":85857,"name":"히드랄로돈 머리","type":"MINION","cardClass":"HUNTER","collectible":false,"cost":2,"text":"<b>죽음의 메아리:</b> 내 전장에 히드랄로돈이 있으면, 히드랄로돈 머리를 둘 소환합니다.","attack":3,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-128_M2.tif:4a88a41ce96544cd9c87b51302e9aaea","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":2248,"name":"거수 부속","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TSC_950t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-128_M2.tif:4a88a41ce96544cd9c87b51302e9aaea","goldenMaterial":"TSC_950t2_PremiumCard.mat:9c144bdf6f028c74586c7e560d83399b","goldenAnimation":"TSC_950t2_PremiumCard.asset:b46fc6c0c68463846a79b3861243b6bf"}}
+{
+  "2022-04-13": {
+    "id": "TSC_950t2",
+    "dbfId": 85857,
+    "name": "히드랄로돈 머리",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>죽음의 메아리:</b> 내 전장에 히드랄로돈이 있으면, 히드랄로돈 머리를 둘 소환합니다.",
+    "attack": 3,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-128_M2.tif:4a88a41ce96544cd9c87b51302e9aaea",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 2248,
+        "name": "거수 부속",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TSC_950t2.png"
+  }
+}

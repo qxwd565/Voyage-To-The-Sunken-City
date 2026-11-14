@@ -1,1 +1,99 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TID_711","dbfId":75580,"name":"오주마트","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":8,"text":"<b>거수 +6</b>, <b>죽음의 메아리:</b> 오주마트의 촉수의 수만큼 무작위 적 하수인을 처치합니다.","attack":6,"health":5,"durability":0,"armor":0,"flavor":"<b>죽음의 메아리:</b> 문어발을 빌며 후회하게 될 겁니다.","spellSchool":"","portrait":"HS25-206_M.tif:f0a83cf2a0214abf9df0028dc044621e","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":8},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1078,"name":"마우스를 올리면 카드 표시","value":75581},{"id":1544,"name":"게임 태그 1544","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":2247,"name":"거수","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TID_711.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-206_M.tif:f0a83cf2a0214abf9df0028dc044621e","goldenMaterial":"TID_711_PremiumCard.mat:ac201b569e0817b4d8ca04bf1e933d78","goldenAnimation":"TID_711_PremiumCard.asset:7724999c206054f43930c9ffae026f31"}}
+{
+  "2022-06-02": {
+    "id": "TID_711",
+    "dbfId": 75580,
+    "name": "오주마트",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 8,
+    "text": "<b>거수 +6</b>, <b>죽음의 메아리:</b> 오주마트의 촉수의 수만큼 무작위 적 하수인을 처치합니다.",
+    "attack": 6,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "<b>죽음의 메아리:</b> 문어발을 빌며 후회하게 될 겁니다.",
+    "spellSchool": "",
+    "portrait": "HS25-206_M.tif:f0a83cf2a0214abf9df0028dc044621e",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1078,
+        "name": "마우스를 올리면 카드 표시",
+        "value": 75581
+      },
+      {
+        "id": 1544,
+        "name": "게임 태그 1544",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 2247,
+        "name": "거수",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TID_711.png"
+  }
+}

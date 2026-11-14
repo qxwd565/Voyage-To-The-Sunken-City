@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_210","dbfId":72482,"name":"발광","type":"SPELL","cardClass":"PRIEST","rarity":"COMMON","collectible":true,"cost":0,"text":"<b>인양</b>, 그 카드가 주문이면, 비용이 (3) 감소합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"보아라! 이 찬란한 신상 잔을!","spellSchool":"HOLY","portrait":"HS25-034_S.tif:63e1f2b4c7aa4012b8628e56b9bf849d","set":"THE_SUNKEN_CITY","nativeTags":[{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":5},{"id":2332,"name":"인양","value":1}],"races":[],"race":"","classes":[],"art":"art/TSC_210.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-034_S.tif:63e1f2b4c7aa4012b8628e56b9bf849d","goldenMaterial":"TSC_210_PremiumCard.mat:b60509e6957daad44a8644adcd4a04b4","goldenAnimation":"TSC_210_PremiumCard.asset:417ebd3331ff67e4dbd3070f8869d29b"}}
+{
+  "2022-04-13": {
+    "id": "TSC_210",
+    "dbfId": 72482,
+    "name": "발광",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 0,
+    "text": "<b>인양</b>, 그 카드가 주문이면, 비용이 (3) 감소합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "보아라! 이 찬란한 신상 잔을!",
+    "spellSchool": "HOLY",
+    "portrait": "HS25-034_S.tif:63e1f2b4c7aa4012b8628e56b9bf849d",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      },
+      {
+        "id": 2332,
+        "name": "인양",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_210.png"
+  }
+}

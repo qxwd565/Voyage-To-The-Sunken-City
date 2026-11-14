@@ -1,1 +1,73 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_639t3","dbfId":85861,"name":"글루그의 꼬리","type":"MINION","cardClass":"SHAMAN","collectible":false,"cost":2,"text":"<b>도발</b>","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-163_M3.tif:27056cc81754468c86d2955ea9779692","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":2248,"name":"거수 부속","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TSC_639t3.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-163_M3.tif:27056cc81754468c86d2955ea9779692","goldenMaterial":"TSC_639t3_PremiumCard.mat:dc011bdd2ce99ed4c965b2851869d037","goldenAnimation":"TSC_639t3_PremiumCard.asset:efa894d7c5c8151428633df9f45abd81"}}
+{
+  "2022-04-13": {
+    "id": "TSC_639t3",
+    "dbfId": 85861,
+    "name": "글루그의 꼬리",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>도발</b>",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-163_M3.tif:27056cc81754468c86d2955ea9779692",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 2248,
+        "name": "거수 부속",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TSC_639t3.png"
+  }
+}

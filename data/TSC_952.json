@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_952","dbfId":73424,"name":"천상의 김밥","type":"SPELL","cardClass":"PALADIN","rarity":"RARE","collectible":true,"cost":1,"text":"생명력을 #2 회복시킵니다.\n이번 턴에 반복할 수 있습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"한 줄에 10마나라니...","spellSchool":"HOLY","portrait":"HS25-137_S.tif:7921142f4dc6440eaf616fd677430be9","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1114,"name":"이번 턴 반복 사용","value":1},{"id":1635,"name":"주문 속성","value":5}],"races":[],"race":"","classes":[],"art":"art/TSC_952.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-137_S.tif:7921142f4dc6440eaf616fd677430be9","goldenMaterial":"TSC_952_PremiumCard.mat:c231fa5097f42b443bdc41a0691ecf2f","goldenAnimation":"TSC_952_PremiumCard.asset:e44df56067ad6d14a94b8f5491ebd303"}}
+{
+  "2022-04-13": {
+    "id": "TSC_952",
+    "dbfId": 73424,
+    "name": "천상의 김밥",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "생명력을 #2 회복시킵니다.<br></br>이번 턴에 반복할 수 있습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "한 줄에 10마나라니...",
+    "spellSchool": "HOLY",
+    "portrait": "HS25-137_S.tif:7921142f4dc6440eaf616fd677430be9",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1114,
+        "name": "이번 턴 반복 사용",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_952.png"
+  }
+}

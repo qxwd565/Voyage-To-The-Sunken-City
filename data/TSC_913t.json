@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_913t","dbfId":72114,"name":"가라앉은 삼지창","type":"WEAPON","cardClass":"WARRIOR","collectible":false,"cost":3,"text":"내 영웅이 공격한 후에,\n모든 적 하수인에게\n피해를 2 줍니다.","attack":3,"health":0,"durability":2,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-174_W.tif:9803b1f12c1947d7a6fb75e0e2b5312a","set":"THE_SUNKEN_CITY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":7}],"races":[],"race":"","classes":[],"art":"art/TSC_913t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-174_W.tif:9803b1f12c1947d7a6fb75e0e2b5312a","goldenMaterial":"TSC_913t_PremiumCard.mat:d243152406f059041b03ac449c6dbe3d","goldenAnimation":"TSC_913t_PremiumCard.asset:c32fff516d2bad441a09f3aeb56ecc9c"}}
+{
+  "2022-04-13": {
+    "id": "TSC_913t",
+    "dbfId": 72114,
+    "name": "가라앉은 삼지창",
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "collectible": false,
+    "cost": 3,
+    "text": "내 영웅이 공격한 후에,<br></br>모든 적 하수인에게<br></br>피해를 2 줍니다.",
+    "attack": 3,
+    "health": 0,
+    "durability": 2,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-174_W.tif:9803b1f12c1947d7a6fb75e0e2b5312a",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_913t.png"
+  }
+}

@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_828","dbfId":71945,"name":"사제 발리쉬","type":"MINION","cardClass":"PRIEST","rarity":"LEGENDARY","collectible":true,"cost":1,"text":"<b>전투의 함성:</b> 이번 턴에 내가 시전한 주문 하나당 빈 마나 수정을 회복합니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"동시에 여러 일을 할 수 있어서 좋겠네요.","spellSchool":"","portrait":"HS25-145_M.tif:ab88830e35bf40028f8de7ed071b2c47","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/TSC_828.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-145_M.tif:ab88830e35bf40028f8de7ed071b2c47","goldenMaterial":"TSC_828_PremiumCard.mat:5f77e5620685c214fae23b7e8eac0ff2","goldenAnimation":"TSC_828_PremiumCard.asset:8623217a543b6a541b4201ef489462e1"}}
+{
+  "2022-04-13": {
+    "id": "TSC_828",
+    "dbfId": 71945,
+    "name": "사제 발리쉬",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b> 이번 턴에 내가 시전한 주문 하나당 빈 마나 수정을 회복합니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "동시에 여러 일을 할 수 있어서 좋겠네요.",
+    "spellSchool": "",
+    "portrait": "HS25-145_M.tif:ab88830e35bf40028f8de7ed071b2c47",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/TSC_828.png"
+  }
+}

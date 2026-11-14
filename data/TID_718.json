@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TID_718","dbfId":75637,"name":"화형","type":"SPELL","cardClass":"WARLOCK","rarity":"RARE","collectible":true,"cost":4,"text":"상대편의 손에 있는 모든 카드에 불을 붙입니다.\n3턴 후에, 손에 있는 그 카드들을 파괴합니다!","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"아끼다가 뭐 되는지 알고 계셨잖아요?\"","spellSchool":"FIRE","portrait":"HS25-202_S.tif:4bd25dc102ee45f18c32eba9de7fa930","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":2},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/TID_718.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-202_S.tif:4bd25dc102ee45f18c32eba9de7fa930","goldenMaterial":"TID_718_PremiumCard.mat:7325943cf9a7b9c48948f6ac39db0d05","goldenAnimation":"TID_718_PremiumCard.asset:6a880181e9345824f935b67100435eca"}}
+{
+  "2022-06-02": {
+    "id": "TID_718",
+    "dbfId": 75637,
+    "name": "화형",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "상대편의 손에 있는 모든 카드에 불을 붙입니다.<br></br>3턴 후에, 손에 있는 그 카드들을 파괴합니다!",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"아끼다가 뭐 되는지 알고 계셨잖아요?\"",
+    "spellSchool": "FIRE",
+    "portrait": "HS25-202_S.tif:4bd25dc102ee45f18c32eba9de7fa930",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 2
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TID_718.png"
+  }
+}

@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_641td","dbfId":73736,"name":"골가네스의 해일석","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":1,"text":"무작위 주문 다섯을 내 덱에\n섞어 넣습니다. 그 주문들의\n비용이 (1)이 됩니다.\n카드를 2장 뽑습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-188_S.tif:50f1a09fde314cddb1deb422ee764b37","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":251,"name":"게임 태그 251","value":1}],"races":[],"race":"","classes":[],"art":"art/TSC_641td.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-188_S.tif:50f1a09fde314cddb1deb422ee764b37","goldenMaterial":"TSC_641td_PremiumCard.mat:406590e6256375543820759b98e3fb8b","goldenAnimation":"TSC_641td_PremiumCard.asset:7b7d8c10a0ce0f64fad1bbdcc232fe06"}}
+{
+  "2022-04-13": {
+    "id": "TSC_641td",
+    "dbfId": 73736,
+    "name": "골가네스의 해일석",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 1,
+    "text": "무작위 주문 다섯을 내 덱에<br></br>섞어 넣습니다. 그 주문들의<br></br>비용이 (1)이 됩니다.<br></br>카드를 2장 뽑습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-188_S.tif:50f1a09fde314cddb1deb422ee764b37",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 251,
+        "name": "게임 태그 251",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_641td.png"
+  }
+}

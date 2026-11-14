@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TID_717","dbfId":73445,"name":"암흑의 전령","type":"MINION","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 내 손에 있을 때 암흑 주문을 시전했으면, 하수인의 생명력을 2 가져옵니다.","attack":4,"health":2,"durability":0,"armor":0,"flavor":"\"사춘기 아니라고요, 엄마!\"","spellSchool":"","portrait":"HS25-203_M.tif:adbdd6444ccf4e65851bb13d5df05aa9","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/TID_717.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-203_M.tif:adbdd6444ccf4e65851bb13d5df05aa9","goldenMaterial":"TID_717_PremiumCard.mat:47dac946d14be8b47bb9e9f28645890a","goldenAnimation":"TID_717_PremiumCard.asset:b87966e6297b9a94faa9229b766345bd"}}
+{
+  "2022-06-02": {
+    "id": "TID_717",
+    "dbfId": 73445,
+    "name": "암흑의 전령",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 내 손에 있을 때 암흑 주문을 시전했으면, 하수인의 생명력을 2 가져옵니다.",
+    "attack": 4,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"사춘기 아니라고요, 엄마!\"",
+    "spellSchool": "",
+    "portrait": "HS25-203_M.tif:adbdd6444ccf4e65851bb13d5df05aa9",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/TID_717.png"
+  }
+}

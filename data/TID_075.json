@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TID_075","dbfId":76225,"name":"소라 사격","type":"SPELL","cardClass":"HUNTER","rarity":"RARE","collectible":true,"cost":3,"text":"무작위 적 하수인에게 피해를 $3 줍니다. 주는 피해를 1 감소시키고 반복합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"정확성보단 집탄률입니다.","spellSchool":"NATURE","portrait":"HS25-222_S.tif:0993d262d22d4e279e33e40b81bf6e53","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":3},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":349,"name":"게임 태그 349","value":1},{"id":1635,"name":"주문 속성","value":4},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/TID_075.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-222_S.tif:0993d262d22d4e279e33e40b81bf6e53","goldenMaterial":"TID_075_PremiumCard.mat:690369953fe6c4649993992004f52738","goldenAnimation":"TID_075_PremiumCard.asset:2be69922a3d9eda40a06b42d260c68ae"}}
+{
+  "2022-06-02": {
+    "id": "TID_075",
+    "dbfId": 76225,
+    "name": "소라 사격",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "무작위 적 하수인에게 피해를 $3 줍니다. 주는 피해를 1 감소시키고 반복합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "정확성보단 집탄률입니다.",
+    "spellSchool": "NATURE",
+    "portrait": "HS25-222_S.tif:0993d262d22d4e279e33e40b81bf6e53",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 349,
+        "name": "게임 태그 349",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TID_075.png"
+  }
+}

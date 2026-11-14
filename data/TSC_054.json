@@ -1,1 +1,80 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_054","dbfId":72649,"name":"기계 상어","type":"MINION","cardClass":"MAGE","rarity":"COMMON","collectible":true,"cost":3,"text":"내가 기계를 소환한 후에, 모든 적에게 3의 피해를 무작위로 나누어 입힙니다.","attack":4,"health":3,"durability":0,"armor":0,"flavor":"왜 평범한 잠수함이 아니라 기계 상어냐고요? 여러분이 스킨을 쓰는 이유에서 그 답을 찾을 수 있습니다.","spellSchool":"","portrait":"HS25-024_M.tif:bb28b9dae5a4447782e6c7a89bb15d39","set":"THE_SUNKEN_CITY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2542,"name":"게임 태그 2542","value":1}],"races":["MECHANICAL","BEAST"],"race":"기계, 야수","classes":[],"art":"art/TSC_054.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-024_M.tif:bb28b9dae5a4447782e6c7a89bb15d39","goldenMaterial":"TSC_054_PremiumCard.mat:d4d5649834a1b1b4d9045e646c3a5b6a","goldenAnimation":"TSC_054_PremiumCard.asset:070e4a10ce977c54d9ac6df2dabe25d6"}}
+{
+  "2022-04-13": {
+    "id": "TSC_054",
+    "dbfId": 72649,
+    "name": "기계 상어",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "내가 기계를 소환한 후에, 모든 적에게 3의 피해를 무작위로 나누어 입힙니다.",
+    "attack": 4,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "왜 평범한 잠수함이 아니라 기계 상어냐고요? 여러분이 스킨을 쓰는 이유에서 그 답을 찾을 수 있습니다.",
+    "spellSchool": "",
+    "portrait": "HS25-024_M.tif:bb28b9dae5a4447782e6c7a89bb15d39",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2542,
+        "name": "게임 태그 2542",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "race": "기계, 야수",
+    "classes": [],
+    "art": "art/TSC_054.png"
+  }
+}

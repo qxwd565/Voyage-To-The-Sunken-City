@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_053","dbfId":72648,"name":"무지개 반짝비늘","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>주문 공격력 +1</b>","attack":2,"health":3,"durability":0,"armor":0,"flavor":"비전, 지옥, 화염, 냉기, 신성, 자연, 암흑 주문 공격력 +1이라고 말하는 게 더 있어 보인다네요.","spellSchool":"","portrait":"HS25-180_M.tif:be7a0e91b2e14f868be5970d2120e4fd","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":192,"name":"주문 공격력","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/TSC_053.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-180_M.tif:be7a0e91b2e14f868be5970d2120e4fd","goldenMaterial":"TSC_053_PremiumCard.mat:5982c449b8a861245ad75228aad40acd","goldenAnimation":"TSC_053_PremiumCard.asset:203ae5ea99e8ce24cbdf0c3a346ba366"}}
+{
+  "2022-04-13": {
+    "id": "TSC_053",
+    "dbfId": 72648,
+    "name": "무지개 반짝비늘",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>주문 공격력 +1</b>",
+    "attack": 2,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "비전, 지옥, 화염, 냉기, 신성, 자연, 암흑 주문 공격력 +1이라고 말하는 게 더 있어 보인다네요.",
+    "spellSchool": "",
+    "portrait": "HS25-180_M.tif:be7a0e91b2e14f868be5970d2120e4fd",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 192,
+        "name": "주문 공격력",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/TSC_053.png"
+  }
+}

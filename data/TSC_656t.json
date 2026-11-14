@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_656t","dbfId":78670,"name":"해초괴물","type":"MINION","cardClass":"DRUID","collectible":false,"cost":1,"text":"<b>도발</b>","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-123_M.tif:dbddf86b879b46279b1181b78ff7865b","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4}],"races":[],"race":"","classes":[],"art":"art/TSC_656t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-123_M.tif:dbddf86b879b46279b1181b78ff7865b","goldenMaterial":"TSC_656t_PremiumCard.mat:881e4bb147966a84aa7d60b8c095d0c2","goldenAnimation":"TSC_656t_PremiumCard.asset:ca660e18b7f1e2d4b8e7545ac0ac3c46"}}
+{
+  "2022-04-13": {
+    "id": "TSC_656t",
+    "dbfId": 78670,
+    "name": "해초괴물",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>도발</b>",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-123_M.tif:dbddf86b879b46279b1181b78ff7865b",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_656t.png"
+  }
+}

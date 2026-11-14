@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TID_920","dbfId":80120,"name":"익사","type":"SPELL","cardClass":"PRIEST","rarity":"RARE","collectible":true,"cost":4,"text":"적 하수인을 내 덱\n맨 아래에 놓습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"나가에게 사용하면, 슬픔에 허우적댈 것입니다.","spellSchool":"SHADOW","portrait":"HS25-040_S.tif:c59583c4b8fa491a8abcdac79c7ca9e1","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":6},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/TID_920.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-040_S.tif:c59583c4b8fa491a8abcdac79c7ca9e1","goldenMaterial":"TID_920_PremiumCard.mat:2108852df5d7db84988cf100085c8830","goldenAnimation":"TID_920_PremiumCard.asset:c4f5b5724d15b444485c1229bbdec1dd"}}
+{
+  "2022-06-02": {
+    "id": "TID_920",
+    "dbfId": 80120,
+    "name": "익사",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "적 하수인을 내 덱<br></br>맨 아래에 놓습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "나가에게 사용하면, 슬픔에 허우적댈 것입니다.",
+    "spellSchool": "SHADOW",
+    "portrait": "HS25-040_S.tif:c59583c4b8fa491a8abcdac79c7ca9e1",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TID_920.png"
+  }
+}

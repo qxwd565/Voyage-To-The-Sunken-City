@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TID_719","dbfId":75639,"name":"사령관 울톡","type":"MINION","cardClass":"WARLOCK","rarity":"LEGENDARY","collectible":true,"cost":5,"text":"<b>전투의 함성:</b> 다음 턴에 상대편이 사용하는 카드들은 마나 대신 생명력을 비용으로 사용합니다.","attack":7,"health":7,"durability":0,"armor":0,"flavor":"휴일에는 정원에서 핏빛순무, 핏빛양배추, 그리고 가장 아끼는 핏빛꽃을 키운다고 합니다.","spellSchool":"","portrait":"HS25-201_M.tif:25b38661ac444474bfa994d9fa455eca","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":7},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/TID_719.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-201_M.tif:25b38661ac444474bfa994d9fa455eca","goldenMaterial":"TID_719_PremiumCard.mat:4344a740a7c098043933df937f265661","goldenAnimation":"TID_719_PremiumCard.asset:419f8770e66d7f04fb24ddfcce0e830e"}}
+{
+  "2022-06-02": {
+    "id": "TID_719",
+    "dbfId": 75639,
+    "name": "사령관 울톡",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 다음 턴에 상대편이 사용하는 카드들은 마나 대신 생명력을 비용으로 사용합니다.",
+    "attack": 7,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "휴일에는 정원에서 핏빛순무, 핏빛양배추, 그리고 가장 아끼는 핏빛꽃을 키운다고 합니다.",
+    "spellSchool": "",
+    "portrait": "HS25-201_M.tif:25b38661ac444474bfa994d9fa455eca",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TID_719.png"
+  }
+}

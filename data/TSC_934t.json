@@ -1,1 +1,41 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_934t","dbfId":77381,"name":"물자 약탈!","type":"SPELL","cardClass":"ROGUE","collectible":false,"cost":0,"text":"상대편의 덱에 있는 카드를 5장 가져옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-156_S.tif:4c78235baa0b4b7391707a84831eacad","set":"THE_SUNKEN_CITY","nativeTags":[{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/TSC_934t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-156_S.tif:4c78235baa0b4b7391707a84831eacad","goldenMaterial":"TSC_934t_PremiumCard.mat:aacbba0f21709244e98c888810c9c9d2","goldenAnimation":"TSC_934t_PremiumCard.asset:581c2786a88461545b7c55f727707375"}}
+{
+  "2022-04-13": {
+    "id": "TSC_934t",
+    "dbfId": 77381,
+    "name": "물자 약탈!",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "collectible": false,
+    "cost": 0,
+    "text": "상대편의 덱에 있는 카드를 5장 가져옵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-156_S.tif:4c78235baa0b4b7391707a84831eacad",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_934t.png"
+  }
+}

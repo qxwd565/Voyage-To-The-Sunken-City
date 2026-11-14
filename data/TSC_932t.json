@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_932t","dbfId":72532,"name":"호랑상어","type":"MINION","cardClass":"ROGUE","collectible":false,"cost":5,"text":"<b>속공</b>","attack":5,"health":5,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-049_M.tif:b4208ccf0318451daf673345d46604af","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":7},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":791,"name":"속공","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TSC_932t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-049_M.tif:b4208ccf0318451daf673345d46604af","goldenMaterial":"TSC_932t_PremiumCard.mat:533e076cbdb58bc4788e60b6509cfb0c","goldenAnimation":"TSC_932t_PremiumCard.asset:821982281a6f58f4bb23f83f3aae1499"}}
+{
+  "2022-04-13": {
+    "id": "TSC_932t",
+    "dbfId": 72532,
+    "name": "호랑상어",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>속공</b>",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-049_M.tif:b4208ccf0318451daf673345d46604af",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TSC_932t.png"
+  }
+}

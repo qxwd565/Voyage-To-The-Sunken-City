@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_925t","dbfId":73733,"name":"시린빛 잠복꾼","type":"MINION","cardClass":"WARLOCK","collectible":false,"cost":1,"text":"","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-169_M.tif:704d64b98a064db8bb3292675fb5b895","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":14},{"id":202,"name":"카드 유형","value":4}],"races":["MURLOC"],"race":"멀록","classes":[],"art":"art/TSC_925t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-169_M.tif:704d64b98a064db8bb3292675fb5b895","goldenMaterial":"TSC_925t_PremiumCard.mat:4bd40e1d6e747a34d8a3043faf91c9dc","goldenAnimation":"TSC_925t_PremiumCard.asset:9baa09ddcc87028458e03a26d9326d4d"}}
+{
+  "2022-04-13": {
+    "id": "TSC_925t",
+    "dbfId": 73733,
+    "name": "시린빛 잠복꾼",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-169_M.tif:704d64b98a064db8bb3292675fb5b895",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "MURLOC"
+    ],
+    "race": "멀록",
+    "classes": [],
+    "art": "art/TSC_925t.png"
+  }
+}

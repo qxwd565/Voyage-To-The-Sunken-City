@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TID_706","dbfId":75552,"name":"혼돈의 전령","type":"MINION","cardClass":"DEMONHUNTER","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>생명력 흡수</b>, <b>전투의 함성:</b> 내 손에 있을 때 지옥 주문을 시전했으면, <b>속공</b>을 얻습니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"말도 안되는 세계의 분리가 일어나기 전, 질서의 전령으로 불렸습니다.","spellSchool":"","portrait":"HS25-209_M.tif:a50ca832966d4e85b2077c158fae8a68","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1},{"id":791,"name":"속공","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/TID_706.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-209_M.tif:a50ca832966d4e85b2077c158fae8a68","goldenMaterial":"TID_706_PremiumCard.mat:a8442ddd76d71724896f3ab186680c83","goldenAnimation":"TID_706_PremiumCard.asset:5b633c2a5baf2254dbc0d52f59a19ede"}}
+{
+  "2022-06-02": {
+    "id": "TID_706",
+    "dbfId": 75552,
+    "name": "혼돈의 전령",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>생명력 흡수</b>, <b>전투의 함성:</b> 내 손에 있을 때 지옥 주문을 시전했으면, <b>속공</b>을 얻습니다.",
+    "attack": 3,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "말도 안되는 세계의 분리가 일어나기 전, 질서의 전령으로 불렸습니다.",
+    "spellSchool": "",
+    "portrait": "HS25-209_M.tif:a50ca832966d4e85b2077c158fae8a68",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/TID_706.png"
+  }
+}

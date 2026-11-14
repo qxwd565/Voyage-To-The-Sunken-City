@@ -1,1 +1,66 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_919t","dbfId":72213,"name":"가라앉은 파수기","type":"MINION","cardClass":"NEUTRAL","collectible":false,"cost":5,"text":"<b>천상의 보호막</b>, <b>도발</b>, <b>생명력 흡수</b>","attack":5,"health":6,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-077_M.tif:9b342e3a0d8143b6a26324730d5fd7b8","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":190,"name":"도발","value":1},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":685,"name":"생명력 흡수","value":1}],"races":[],"race":"","classes":[],"art":"art/TSC_919t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-077_M.tif:9b342e3a0d8143b6a26324730d5fd7b8","goldenMaterial":"TSC_919t_PremiumCard.mat:57e845499c6322341817dec020914d76","goldenAnimation":"TSC_919t_PremiumCard.asset:077011157b67d2b40bdc6602afa54971"}}
+{
+  "2022-04-13": {
+    "id": "TSC_919t",
+    "dbfId": 72213,
+    "name": "가라앉은 파수기",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>천상의 보호막</b>, <b>도발</b>, <b>생명력 흡수</b>",
+    "attack": 5,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-077_M.tif:9b342e3a0d8143b6a26324730d5fd7b8",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_919t.png"
+  }
+}

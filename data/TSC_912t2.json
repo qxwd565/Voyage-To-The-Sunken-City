@@ -1,1 +1,69 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_912t2","dbfId":72118,"name":"가라앉은 해적","type":"MINION","cardClass":"ROGUE","collectible":false,"cost":3,"text":"<b>은신</b>","attack":3,"health":3,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-152_M.tif:a8b67a79668c4385b7e71fdfd58c930b","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":191,"name":"은신","value":1},{"id":199,"name":"직업","value":7},{"id":200,"name":"종족","value":23},{"id":202,"name":"카드 유형","value":4},{"id":2534,"name":"게임 태그 2534","value":1}],"races":["UNDEAD","PIRATE"],"race":"언데드, 해적","classes":[],"art":"art/TSC_912t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-152_M.tif:a8b67a79668c4385b7e71fdfd58c930b","goldenMaterial":"TSC_912t2_PremiumCard.mat:1e87228c58526d549b3250ded50fa536","goldenAnimation":"TSC_912t2_PremiumCard.asset:f3359a145ee7afb4f85d2e8b60fc814f"}}
+{
+  "2022-04-13": {
+    "id": "TSC_912t2",
+    "dbfId": 72118,
+    "name": "가라앉은 해적",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "collectible": false,
+    "cost": 3,
+    "text": "<b>은신</b>",
+    "attack": 3,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-152_M.tif:a8b67a79668c4385b7e71fdfd58c930b",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 191,
+        "name": "은신",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 23
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 2534,
+        "name": "게임 태그 2534",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "race": "언데드, 해적",
+    "classes": [],
+    "art": "art/TSC_912t2.png"
+  }
+}

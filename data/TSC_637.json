@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_637","dbfId":72508,"name":"끓어오르는 간헐천","type":"SPELL","cardClass":"SHAMAN","rarity":"COMMON","collectible":true,"cost":1,"text":"피해를 $2 줍니다. <b>인양</b>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"저게 뭐라고요?\" \"간헐천이요!\"","spellSchool":"FIRE","portrait":"HS25-058_S.tif:d9ed02acb33d4037b842b2305c18c952","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":2},{"id":2332,"name":"인양","value":1}],"races":[],"race":"","classes":[],"art":"art/TSC_637.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-058_S.tif:d9ed02acb33d4037b842b2305c18c952","goldenMaterial":"TSC_637_PremiumCard.mat:b4d3899a1fc60cc43b658b6f82626335","goldenAnimation":"TSC_637_PremiumCard.asset:a9a6ad283858f7a48ba6793d411261d4"}}
+{
+  "2022-04-13": {
+    "id": "TSC_637",
+    "dbfId": 72508,
+    "name": "끓어오르는 간헐천",
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "피해를 $2 줍니다. <b>인양</b>",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"저게 뭐라고요?\" \"간헐천이요!\"",
+    "spellSchool": "FIRE",
+    "portrait": "HS25-058_S.tif:d9ed02acb33d4037b842b2305c18c952",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 2
+      },
+      {
+        "id": 2332,
+        "name": "인양",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_637.png"
+  }
+}

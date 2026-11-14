@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_947t","dbfId":86800,"name":"쏠배감펭","type":"MINION","cardClass":"HUNTER","collectible":false,"cost":2,"text":"","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-019_M.tif:af9f476fbfb3462a943d1074e5f81276","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TSC_947t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-019_M.tif:af9f476fbfb3462a943d1074e5f81276","goldenMaterial":"TSC_947t_PremiumCard.mat:6d3c2ac0ce3931f47b80822b091a6f61","goldenAnimation":"TSC_947t_PremiumCard.asset:22bbef22fdfa35c479fe8ca24fd526c1"}}
+{
+  "2022-04-13": {
+    "id": "TSC_947t",
+    "dbfId": 86800,
+    "name": "쏠배감펭",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "collectible": false,
+    "cost": 2,
+    "text": "",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-019_M.tif:af9f476fbfb3462a943d1074e5f81276",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TSC_947t.png"
+  }
+}

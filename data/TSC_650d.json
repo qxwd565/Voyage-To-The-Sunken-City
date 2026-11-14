@@ -1,1 +1,51 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_650d","dbfId":74960,"name":"장난꾸러기 수달들","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":5,"text":"<b>속공</b> 능력이 있는 1/1 수달을 여섯 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"NATURE","portrait":"HS25-120_S.tif:7ccb1c2371cc4b43b5f368e96ba82ea1","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":791,"name":"속공","value":1},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/TSC_650d.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-120_S.tif:7ccb1c2371cc4b43b5f368e96ba82ea1","goldenMaterial":"TSC_650d_PremiumCard.mat:26d2e5301a0703646a8c1cd9eedc5b99","goldenAnimation":"TSC_650d_PremiumCard.asset:66808fb5d9486514c94d467c3d8b4a25"}}
+{
+  "2022-04-13": {
+    "id": "TSC_650d",
+    "dbfId": 74960,
+    "name": "장난꾸러기 수달들",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>속공</b> 능력이 있는 1/1 수달을 여섯 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "NATURE",
+    "portrait": "HS25-120_S.tif:7ccb1c2371cc4b43b5f368e96ba82ea1",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_650d.png"
+  }
+}

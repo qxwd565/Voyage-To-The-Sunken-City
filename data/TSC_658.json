@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_658","dbfId":73713,"name":"이단자 헤드라","type":"MINION","cardClass":"DRUID","rarity":"LEGENDARY","collectible":true,"cost":7,"text":"<b>전투의 함성:</b> 내 손에 있을 때 시전한 주문 하나당\n그 주문들과 같은 비용인 하수인을 소환합니다.","attack":4,"health":5,"durability":0,"armor":0,"flavor":"헤드라는 나가를 갈라친 수많은 의견을 제시해 수천 년 전에 추방당했습니다. 예를 들자면 \"사악한 심해 뱀이 되는 건 나쁘다\"고 했죠.","spellSchool":"","portrait":"HS25-124_M.tif:04d7872b7824455e9f355a8a6368bf84","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/TSC_658.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-124_M.tif:04d7872b7824455e9f355a8a6368bf84","goldenMaterial":"TSC_658_PremiumCard.mat:90cddc117d5ff764d9362396f7391a81","goldenAnimation":"TSC_658_PremiumCard.asset:54eb05601d8f2204da81a7b7e18e9a23"}}
+{
+  "2022-04-13": {
+    "id": "TSC_658",
+    "dbfId": 73713,
+    "name": "이단자 헤드라",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>전투의 함성:</b> 내 손에 있을 때 시전한 주문 하나당<br></br>그 주문들과 같은 비용인 하수인을 소환합니다.",
+    "attack": 4,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "헤드라는 나가를 갈라친 수많은 의견을 제시해 수천 년 전에 추방당했습니다. 예를 들자면 \"사악한 심해 뱀이 되는 건 나쁘다\"고 했죠.",
+    "spellSchool": "",
+    "portrait": "HS25-124_M.tif:04d7872b7824455e9f355a8a6368bf84",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/TSC_658.png"
+  }
+}

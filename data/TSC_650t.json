@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_650t","dbfId":73463,"name":"범고래","type":"MINION","cardClass":"DRUID","collectible":false,"cost":6,"text":"<b>도발</b>","attack":6,"health":6,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-119_M.tif:37b47a951db74f3aba877faeabf824e4","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":6},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TSC_650t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-119_M.tif:37b47a951db74f3aba877faeabf824e4","goldenMaterial":"TSC_650t_PremiumCard.mat:3ac0d6c7dd7ce43438b0ab1cec3e77be","goldenAnimation":"TSC_650t_PremiumCard.asset:43488a5ff3471f44e824cefc2408a437"}}
+{
+  "2022-04-13": {
+    "id": "TSC_650t",
+    "dbfId": 73463,
+    "name": "범고래",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 6,
+    "text": "<b>도발</b>",
+    "attack": 6,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-119_M.tif:37b47a951db74f3aba877faeabf824e4",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TSC_650t.png"
+  }
+}

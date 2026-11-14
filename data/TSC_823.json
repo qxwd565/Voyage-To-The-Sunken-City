@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_823","dbfId":71917,"name":"암흑바다 서기","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> 다음에 내가\n내는 주문의 비용이\n(1) 감소합니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"펜은 삼지창보다 강하다.","spellSchool":"","portrait":"HS25-181_M.tif:94b05493f3c543f7b26ceb55d06a9cbf","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/TSC_823.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-181_M.tif:94b05493f3c543f7b26ceb55d06a9cbf","goldenMaterial":"TSC_823_PremiumCard.mat:e7320ea483a4a494aa214a6ada8c9ed9","goldenAnimation":"TSC_823_PremiumCard.asset:c63804c7a163afd49aade515c594c34f"}}
+{
+  "2022-04-13": {
+    "id": "TSC_823",
+    "dbfId": 71917,
+    "name": "암흑바다 서기",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> 다음에 내가<br></br>내는 주문의 비용이<br></br>(1) 감소합니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "펜은 삼지창보다 강하다.",
+    "spellSchool": "",
+    "portrait": "HS25-181_M.tif:94b05493f3c543f7b26ceb55d06a9cbf",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/TSC_823.png"
+  }
+}

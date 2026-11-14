@@ -1,1 +1,68 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_057t","dbfId":75064,"name":"가라앉은 탈주자","type":"MINION","cardClass":"DEMONHUNTER","collectible":false,"cost":4,"text":"<b>돌진</b>, 이 하수인이\n공격한 후에, 무작위 적 하수인에게 피해를 5 줍니다.","attack":5,"health":3,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-110_M.tif:0fe91869d651474ca7328bff42be2cc9","set":"THE_SUNKEN_CITY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":4},{"id":197,"name":"돌진","value":1},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/TSC_057t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-110_M.tif:0fe91869d651474ca7328bff42be2cc9","goldenMaterial":"TSC_057t_PremiumCard.mat:cc869ffcf8a1a36439ddd4042d3d5e5d","goldenAnimation":"TSC_057t_PremiumCard.asset:446ef318ecbad224d92366758c868d62"}}
+{
+  "2022-04-13": {
+    "id": "TSC_057t",
+    "dbfId": 75064,
+    "name": "가라앉은 탈주자",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "collectible": false,
+    "cost": 4,
+    "text": "<b>돌진</b>, 이 하수인이<br></br>공격한 후에, 무작위 적 하수인에게 피해를 5 줍니다.",
+    "attack": 5,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-110_M.tif:0fe91869d651474ca7328bff42be2cc9",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 197,
+        "name": "돌진",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/TSC_057t.png"
+  }
+}

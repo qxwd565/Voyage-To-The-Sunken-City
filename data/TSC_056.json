@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_056","dbfId":72651,"name":"화산술","type":"SPELL","cardClass":"MAGE","rarity":"EPIC","collectible":true,"cost":2,"text":"하수인을 선택합니다. 그 하수인이 죽으면, 다른 <b>모든</b> 하수인에게 피해를 3 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"자나깨나 화산조심, 꺼진 화산도 다시 보자.","spellSchool":"FIRE","portrait":"HS25-029_S.tif:7877cd2409c3490283a57fe34e19f03c","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":2}],"races":[],"race":"","classes":[],"art":"art/TSC_056.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-029_S.tif:7877cd2409c3490283a57fe34e19f03c","goldenMaterial":"TSC_056_PremiumCard.mat:f805299221e62014da4375c1c07aa0b3","goldenAnimation":"TSC_056_PremiumCard.asset:092f136976917234ab20ec00c7dd870f"}}
+{
+  "2022-04-13": {
+    "id": "TSC_056",
+    "dbfId": 72651,
+    "name": "화산술",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 2,
+    "text": "하수인을 선택합니다. 그 하수인이 죽으면, 다른 <b>모든</b> 하수인에게 피해를 3 줍니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "자나깨나 화산조심, 꺼진 화산도 다시 보자.",
+    "spellSchool": "FIRE",
+    "portrait": "HS25-029_S.tif:7877cd2409c3490283a57fe34e19f03c",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_056.png"
+  }
+}

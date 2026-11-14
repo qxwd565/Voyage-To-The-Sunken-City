@@ -1,1 +1,94 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_007","dbfId":71695,"name":"건널판 잠수부","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":5,"text":"1턴 동안 <b>휴면</b> 상태가\n됩니다. <b>속공</b>, 공격할 때\n<b>면역</b> 상태가 됩니다.","attack":6,"health":4,"durability":0,"armor":0,"flavor":"10점... 10점이요!","spellSchool":"","portrait":"HS25-084_M.tif:9569f8adaa1c4fb6ab02d8260aa79ee0","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":23},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":240,"name":"면역","value":1},{"id":321,"name":"수집 가능","value":1},{"id":373,"name":"공격 중 면역","value":1},{"id":791,"name":"속공","value":1},{"id":1518,"name":"휴면","value":1},{"id":1652,"name":"게임 태그 1652","value":1}],"races":["PIRATE"],"race":"해적","classes":[],"art":"art/TSC_007.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-084_M.tif:9569f8adaa1c4fb6ab02d8260aa79ee0","goldenMaterial":"TSC_007_PremiumCard.mat:f55f45b33a07ab24f9ffa3f42826afe5","goldenAnimation":"TSC_007_PremiumCard.asset:c118580d7c402fb4198e8bea4c567082"}}
+{
+  "2022-04-13": {
+    "id": "TSC_007",
+    "dbfId": 71695,
+    "name": "건널판 잠수부",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "1턴 동안 <b>휴면</b> 상태가<br></br>됩니다. <b>속공</b>, 공격할 때<br></br><b>면역</b> 상태가 됩니다.",
+    "attack": 6,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "10점... 10점이요!",
+    "spellSchool": "",
+    "portrait": "HS25-084_M.tif:9569f8adaa1c4fb6ab02d8260aa79ee0",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 23
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 240,
+        "name": "면역",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 373,
+        "name": "공격 중 면역",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1518,
+        "name": "휴면",
+        "value": 1
+      },
+      {
+        "id": 1652,
+        "name": "게임 태그 1652",
+        "value": 1
+      }
+    ],
+    "races": [
+      "PIRATE"
+    ],
+    "race": "해적",
+    "classes": [],
+    "art": "art/TSC_007.png"
+  }
+}

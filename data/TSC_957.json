@@ -1,1 +1,52 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_957","dbfId":73443,"name":"미끼 양동이","type":"SPELL","cardClass":"WARLOCK","rarity":"EPIC","collectible":true,"cost":2,"text":"내 손에 있는 모든 멀록에게 +1/+1을 부여합니다. 내 전장에 있는 멀록의 수만큼 반복합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"니들이 크릴 맛을 알아?","spellSchool":"","portrait":"HS25-170_S.tif:0dccaad4c8da401badc634f12a3d6f6e","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/TSC_957.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-170_S.tif:0dccaad4c8da401badc634f12a3d6f6e","goldenMaterial":"TSC_957_PremiumCard.mat:da2d152c567e69345ae32dd3068f2b39","goldenAnimation":"TSC_957_PremiumCard.asset:5dedd1c8d64bb6f42a070945191c0af8"}}
+{
+  "2022-04-13": {
+    "id": "TSC_957",
+    "dbfId": 73443,
+    "name": "미끼 양동이",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 2,
+    "text": "내 손에 있는 모든 멀록에게 +1/+1을 부여합니다. 내 전장에 있는 멀록의 수만큼 반복합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "니들이 크릴 맛을 알아?",
+    "spellSchool": "",
+    "portrait": "HS25-170_S.tif:0dccaad4c8da401badc634f12a3d6f6e",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_957.png"
+  }
+}

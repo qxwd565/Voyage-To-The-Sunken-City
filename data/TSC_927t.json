@@ -1,1 +1,41 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_927t","dbfId":72337,"name":"가라앉은 정원","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":1,"text":"내 손, 덱, 전장에 있는\n모든 하수인에게\n+1/+1을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-008_S.tif:7840b8453bf742f4bfe18e50f2b4e43e","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/TSC_927t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-008_S.tif:7840b8453bf742f4bfe18e50f2b4e43e","goldenMaterial":"TSC_927t_PremiumCard.mat:112b249aa24f5574dbe0fda658aaaa88","goldenAnimation":"TSC_927t_PremiumCard.asset:4dcaffdb864924046a8251a301500281"}}
+{
+  "2022-04-13": {
+    "id": "TSC_927t",
+    "dbfId": 72337,
+    "name": "가라앉은 정원",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 1,
+    "text": "내 손, 덱, 전장에 있는<br></br>모든 하수인에게<br></br>+1/+1을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-008_S.tif:7840b8453bf742f4bfe18e50f2b4e43e",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_927t.png"
+  }
+}

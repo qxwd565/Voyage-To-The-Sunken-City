@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TID_004","dbfId":75589,"name":"흰동가리","type":"MINION","cardClass":"SHAMAN","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 다음에 내가 내는 멀록 둘의 비용이 (2) 감소합니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"옳옳어를 알면 빵 터지는 농담을 알아들을 수 있습니다.","spellSchool":"","portrait":"HS25-090_M.tif:26e9a5ceb2b14391a34ed0a70766994c","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":["MURLOC"],"race":"멀록","classes":[],"art":"art/TID_004.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-090_M.tif:26e9a5ceb2b14391a34ed0a70766994c","goldenMaterial":"TID_004_PremiumCard.mat:28d89b307c8d9e1428939f02269d7289","goldenAnimation":"TID_004_PremiumCard.asset:231f4cf22084d0c40b6ac169d7e5333f"}}
+{
+  "2022-06-02": {
+    "id": "TID_004",
+    "dbfId": 75589,
+    "name": "흰동가리",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 다음에 내가 내는 멀록 둘의 비용이 (2) 감소합니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "옳옳어를 알면 빵 터지는 농담을 알아들을 수 있습니다.",
+    "spellSchool": "",
+    "portrait": "HS25-090_M.tif:26e9a5ceb2b14391a34ed0a70766994c",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MURLOC"
+    ],
+    "race": "멀록",
+    "classes": [],
+    "art": "art/TID_004.png"
+  }
+}

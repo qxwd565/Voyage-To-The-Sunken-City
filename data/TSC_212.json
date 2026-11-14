@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_212","dbfId":72484,"name":"시녀","type":"MINION","cardClass":"PRIEST","rarity":"RARE","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 내 손에 있을 때 주문을 셋 시전했으면, 카드를 3장 뽑습니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"왕가에서는 저렇게 길고 화려한 화장지를 쓰나요?","spellSchool":"","portrait":"HS25-042_M.tif:90041b89a9a14b48b3db08c15981ac60","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2459,"name":"대상 조건 태그 ID","value":2},{"id":2460,"name":"대상 조건 수치","value":3}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/TSC_212.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-042_M.tif:90041b89a9a14b48b3db08c15981ac60","goldenMaterial":"TSC_212_PremiumCard.mat:a4b53a317615b5e409e48112eae54d0f","goldenAnimation":"TSC_212_PremiumCard.asset:d06302a87b3b6c641b40545a3aa55611"}}
+{
+  "2022-04-13": {
+    "id": "TSC_212",
+    "dbfId": 72484,
+    "name": "시녀",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 내 손에 있을 때 주문을 셋 시전했으면, 카드를 3장 뽑습니다.",
+    "attack": 3,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "왕가에서는 저렇게 길고 화려한 화장지를 쓰나요?",
+    "spellSchool": "",
+    "portrait": "HS25-042_M.tif:90041b89a9a14b48b3db08c15981ac60",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2459,
+        "name": "대상 조건 태그 ID",
+        "value": 2
+      },
+      {
+        "id": 2460,
+        "name": "대상 조건 수치",
+        "value": 3
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/TSC_212.png"
+  }
+}

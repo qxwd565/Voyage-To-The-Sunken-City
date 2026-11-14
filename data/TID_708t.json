@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TID_708t","dbfId":75557,"name":"해파리","type":"MINION","cardClass":"MAGE","collectible":false,"cost":3,"text":"<b>주문 공격력 +2</b>","attack":4,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-208_M.tif:f7193c11382b4b1d8d832b80e3c93919","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":3},{"id":192,"name":"주문 공격력","value":1},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TID_708t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-208_M.tif:f7193c11382b4b1d8d832b80e3c93919","goldenMaterial":"TID_708t_PremiumCard.mat:9f6c4f00666621545ad320ea06cb721c","goldenAnimation":"TID_708t_PremiumCard.asset:b878f73017cf5d04294a6db4e0d72181"}}
+{
+  "2022-06-02": {
+    "id": "TID_708t",
+    "dbfId": 75557,
+    "name": "해파리",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "collectible": false,
+    "cost": 3,
+    "text": "<b>주문 공격력 +2</b>",
+    "attack": 4,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-208_M.tif:f7193c11382b4b1d8d832b80e3c93919",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 192,
+        "name": "주문 공격력",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TID_708t.png"
+  }
+}

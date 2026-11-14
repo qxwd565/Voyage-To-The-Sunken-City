@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_620","dbfId":71996,"name":"원한꼬리 세이렌","type":"MINION","cardClass":"MAGE","rarity":"EPIC","collectible":true,"cost":4,"text":"내가 나가를 낸 후에,\n마나 수정을 2개 회복합니다.\n<i>(그 후에 주문으로 바뀝니다!)</i>","attack":2,"health":5,"durability":0,"armor":0,"flavor":"무지개를 다시 볼 수 있습니다.","spellSchool":"","portrait":"HS25-131_M.tif:90ebdd5e07e74e72b7e982f971b682fa","set":"THE_SUNKEN_CITY","nativeTags":[{"id":2,"name":"효과 수치 1","value":2},{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/TSC_620.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-131_M.tif:90ebdd5e07e74e72b7e982f971b682fa","goldenMaterial":"TSC_620_PremiumCard.mat:f7208fcfe66b3614785db7e45f706b63","goldenAnimation":"TSC_620_PremiumCard.asset:d914f8edd35307243a94adae21511e7b"}}
+{
+  "2022-04-13": {
+    "id": "TSC_620",
+    "dbfId": 71996,
+    "name": "원한꼬리 세이렌",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "내가 나가를 낸 후에,<br></br>마나 수정을 2개 회복합니다.<br></br><i>(그 후에 주문으로 바뀝니다!)</i>",
+    "attack": 2,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "무지개를 다시 볼 수 있습니다.",
+    "spellSchool": "",
+    "portrait": "HS25-131_M.tif:90ebdd5e07e74e72b7e982f971b682fa",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 2
+      },
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/TSC_620.png"
+  }
+}

@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_002","dbfId":71690,"name":"복어주먹","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":3,"text":"내 영웅이 공격한 후에\n모든 적에게 피해를\n1 줍니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"복어 펀치! 복어 펀치! 복어 펀치!","spellSchool":"","portrait":"HS25-074_M.tif:f338d494b0c14dab9dd23fd09fe73d18","set":"THE_SUNKEN_CITY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":23},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["PIRATE"],"race":"해적","classes":[],"art":"art/TSC_002.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-074_M.tif:f338d494b0c14dab9dd23fd09fe73d18","goldenMaterial":"TSC_002_PremiumCard.mat:55a9ab429f1774240bf4ce05d33bc9fa","goldenAnimation":"TSC_002_PremiumCard.asset:a8ec696443268b846b648ec3aeaa9620"}}
+{
+  "2022-04-13": {
+    "id": "TSC_002",
+    "dbfId": 71690,
+    "name": "복어주먹",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "내 영웅이 공격한 후에<br></br>모든 적에게 피해를<br></br>1 줍니다.",
+    "attack": 3,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "복어 펀치! 복어 펀치! 복어 펀치!",
+    "spellSchool": "",
+    "portrait": "HS25-074_M.tif:f338d494b0c14dab9dd23fd09fe73d18",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 23
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "PIRATE"
+    ],
+    "race": "해적",
+    "classes": [],
+    "art": "art/TSC_002.png"
+  }
+}

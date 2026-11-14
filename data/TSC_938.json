@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_938","dbfId":72583,"name":"보물 경비병","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>도발</b>, <b>죽음의 메아리:</b> 카드를 뽑습니다.","attack":1,"health":5,"durability":0,"armor":0,"flavor":"진정한 보물은 모험 중에 만난 나가였다는 사실, 깨달으셨나요?","spellSchool":"","portrait":"HS25-093_M.tif:daddffd74886456f95ae22aa40c90eb3","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":3},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/TSC_938.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-093_M.tif:daddffd74886456f95ae22aa40c90eb3","goldenMaterial":"TSC_938_PremiumCard.mat:40e8685c63e556a4eaa11b91f424eca4","goldenAnimation":"TSC_938_PremiumCard.asset:26bd3fa26fd52374f97972b503f5fadf"}}
+{
+  "2022-04-13": {
+    "id": "TSC_938",
+    "dbfId": 72583,
+    "name": "보물 경비병",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>도발</b>, <b>죽음의 메아리:</b> 카드를 뽑습니다.",
+    "attack": 1,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "진정한 보물은 모험 중에 만난 나가였다는 사실, 깨달으셨나요?",
+    "spellSchool": "",
+    "portrait": "HS25-093_M.tif:daddffd74886456f95ae22aa40c90eb3",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/TSC_938.png"
+  }
+}

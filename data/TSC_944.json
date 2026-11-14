@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_944","dbfId":72632,"name":"진아즈샤리의 불바다","type":"SPELL","cardClass":"WARRIOR","rarity":"EPIC","collectible":true,"cost":2,"text":"내 덱을 비용이 (5) 이상인 하수인들로 교체합니다. 그 하수인들의 비용이 (5)가 됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"정말 뜨끈한 온탕이군요.","spellSchool":"FIRE","portrait":"HS25-178_S.tif:bcfe4fc1fec148e2bb683962d674fa61","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":2}],"races":[],"race":"","classes":[],"art":"art/TSC_944.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-178_S.tif:bcfe4fc1fec148e2bb683962d674fa61","goldenMaterial":"TSC_944_PremiumCard.mat:c49f34971bb6f1e4f8a2c0a343e82dc9","goldenAnimation":"TSC_944_PremiumCard.asset:1f9cf9167f2f6164e8e6d4fee8133eff"}}
+{
+  "2022-04-13": {
+    "id": "TSC_944",
+    "dbfId": 72632,
+    "name": "진아즈샤리의 불바다",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 2,
+    "text": "내 덱을 비용이 (5) 이상인 하수인들로 교체합니다. 그 하수인들의 비용이 (5)가 됩니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "정말 뜨끈한 온탕이군요.",
+    "spellSchool": "FIRE",
+    "portrait": "HS25-178_S.tif:bcfe4fc1fec148e2bb683962d674fa61",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_944.png"
+  }
+}

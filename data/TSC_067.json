@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_067","dbfId":74907,"name":"사절 페이린","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> <b>거수</b> 하수인 셋을 내 덱 맨 아래에 놓습니다.","attack":4,"health":5,"durability":0,"armor":0,"flavor":"수천 년 동안 페이린은 고향으로 돌아가고 싶었습니다. 진아즈샤리는 페이린의 희망대로 존재하고 있을까요? 아니면 비밀은 묻어두는 편이 나을까요?","spellSchool":"","portrait":"HS25-194_M.tif:20bac512699740ee8c7342051e90bab1","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2247,"name":"거수","value":1}],"races":[],"race":"","classes":[],"art":"art/TSC_067.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-194_M.tif:20bac512699740ee8c7342051e90bab1","goldenMaterial":"TSC_067_PremiumCard.mat:23e816b90be71124fb192339143f9dfb","goldenAnimation":"TSC_067_PremiumCard.asset:02ee83ccd37885e46996f1ec9bc80e5c"}}
+{
+  "2022-04-13": {
+    "id": "TSC_067",
+    "dbfId": 74907,
+    "name": "사절 페이린",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> <b>거수</b> 하수인 셋을 내 덱 맨 아래에 놓습니다.",
+    "attack": 4,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "수천 년 동안 페이린은 고향으로 돌아가고 싶었습니다. 진아즈샤리는 페이린의 희망대로 존재하고 있을까요? 아니면 비밀은 묻어두는 편이 나을까요?",
+    "spellSchool": "",
+    "portrait": "HS25-194_M.tif:20bac512699740ee8c7342051e90bab1",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2247,
+        "name": "거수",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_067.png"
+  }
+}

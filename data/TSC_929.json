@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_929","dbfId":72340,"name":"긴급 기동","type":"SPELL","cardClass":"HUNTER","rarity":"EPIC","collectible":true,"cost":2,"text":"<b>비밀:</b> 아군 하수인이 죽으면, 그 하수인을 복사하여 소환합니다. 그 하수인은\n1턴 동안 <b>휴면</b> 상태입니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"있는 힘껏 밟아!","spellSchool":"","portrait":"HS25-127_S.tif:0622cdf17e654d4c9a21e155d5cbc294","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":219,"name":"비밀","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1518,"name":"휴면","value":1}],"races":[],"race":"","classes":[],"art":"art/TSC_929.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-127_S.tif:0622cdf17e654d4c9a21e155d5cbc294","goldenMaterial":"TSC_929_PremiumCard.mat:3d7b0eb187e1d0541ad54213d67c0f01","goldenAnimation":"TSC_929_PremiumCard.asset:3baf6ef9dd3892b4b9bf727e5622a477"}}
+{
+  "2022-04-13": {
+    "id": "TSC_929",
+    "dbfId": 72340,
+    "name": "긴급 기동",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>비밀:</b> 아군 하수인이 죽으면, 그 하수인을 복사하여 소환합니다. 그 하수인은<br></br>1턴 동안 <b>휴면</b> 상태입니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "있는 힘껏 밟아!",
+    "spellSchool": "",
+    "portrait": "HS25-127_S.tif:0622cdf17e654d4c9a21e155d5cbc294",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 219,
+        "name": "비밀",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1518,
+        "name": "휴면",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_929.png"
+  }
+}

@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_218","dbfId":73723,"name":"여군주 스테노","type":"MINION","cardClass":"DEMONHUNTER","rarity":"LEGENDARY","collectible":true,"cost":3,"text":"<b>공격</b>할 때 면역 상태가 됩니다. 내가 주문을 시전한 후에, 생명력이 가장 낮은 적을 공격합니다.","attack":1,"health":4,"durability":0,"armor":0,"flavor":"스테노의 말이 곧 법입니다.","spellSchool":"","portrait":"HS25-005_M.tif:19522f4daf6340e597d860cbb59237b5","set":"THE_SUNKEN_CITY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":240,"name":"면역","value":1},{"id":321,"name":"수집 가능","value":1},{"id":373,"name":"공격 중 면역","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/TSC_218.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-005_M.tif:19522f4daf6340e597d860cbb59237b5","goldenMaterial":"TSC_218_PremiumCard.mat:2abf4d63245df5d4b833852ab66fd1fb","goldenAnimation":"TSC_218_PremiumCard.asset:21165d1e10b33f0458ddf4f5cf6b17d7"}}
+{
+  "2022-04-13": {
+    "id": "TSC_218",
+    "dbfId": 73723,
+    "name": "여군주 스테노",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>공격</b>할 때 면역 상태가 됩니다. 내가 주문을 시전한 후에, 생명력이 가장 낮은 적을 공격합니다.",
+    "attack": 1,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "스테노의 말이 곧 법입니다.",
+    "spellSchool": "",
+    "portrait": "HS25-005_M.tif:19522f4daf6340e597d860cbb59237b5",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 240,
+        "name": "면역",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 373,
+        "name": "공격 중 면역",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/TSC_218.png"
+  }
+}

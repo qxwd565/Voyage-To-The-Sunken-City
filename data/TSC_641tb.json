@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_641tb","dbfId":73734,"name":"고대정령의 뿔피리","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":3,"text":"무작위 <b>거수</b> 하수인을\n내 손으로 가져옵니다.\n그 하수인의 비용이\n(1)이 됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-186_S.tif:6f337b412f154d0e84c01859ff0c693f","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":2247,"name":"거수","value":1}],"races":[],"race":"","classes":[],"art":"art/TSC_641tb.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-186_S.tif:6f337b412f154d0e84c01859ff0c693f","goldenMaterial":"TSC_641tb_PremiumCard.mat:6be76372a67cd1843a71c2eba721e381","goldenAnimation":"TSC_641tb_PremiumCard.asset:a43d561421c6ea341822ef0f02e2217a"}}
+{
+  "2022-04-13": {
+    "id": "TSC_641tb",
+    "dbfId": 73734,
+    "name": "고대정령의 뿔피리",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 3,
+    "text": "무작위 <b>거수</b> 하수인을<br></br>내 손으로 가져옵니다.<br></br>그 하수인의 비용이<br></br>(1)이 됩니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-186_S.tif:6f337b412f154d0e84c01859ff0c693f",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 2247,
+        "name": "거수",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_641tb.png"
+  }
+}

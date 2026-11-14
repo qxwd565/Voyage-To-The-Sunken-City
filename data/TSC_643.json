@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_643","dbfId":72924,"name":"주문 나가","type":"MINION","cardClass":"MAGE","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> 내 손에\n있을 때 주문을 시전했으면,\n주문을 <b>발견</b>합니다.","attack":2,"health":3,"durability":0,"armor":0,"flavor":"한 번 본 주문은 똑같이 쓸 수 있다고 합니다. 카피나가라고 불러야 할까 봐요.","spellSchool":"","portrait":"HS25-025_M.tif:fc831f49034443678b074b11de68c4d7","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/TSC_643.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-025_M.tif:fc831f49034443678b074b11de68c4d7","goldenMaterial":"TSC_643_PremiumCard.mat:fe6416821bfbb34418b78948b0c42f0b","goldenAnimation":"TSC_643_PremiumCard.asset:7592175f1c53e4f42813e11475b91906"}}
+{
+  "2022-04-13": {
+    "id": "TSC_643",
+    "dbfId": 72924,
+    "name": "주문 나가",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> 내 손에<br></br>있을 때 주문을 시전했으면,<br></br>주문을 <b>발견</b>합니다.",
+    "attack": 2,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "한 번 본 주문은 똑같이 쓸 수 있다고 합니다. 카피나가라고 불러야 할까 봐요.",
+    "spellSchool": "",
+    "portrait": "HS25-025_M.tif:fc831f49034443678b074b11de68c4d7",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/TSC_643.png"
+  }
+}

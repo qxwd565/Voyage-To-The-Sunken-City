@@ -1,1 +1,78 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_219t2","dbfId":85853,"name":"즈힐라그의 줄기","type":"MINION","cardClass":"DEMONHUNTER","collectible":false,"cost":2,"text":"내 턴이 끝날 때,\n무작위 적에게\n피해를 2 줍니다.","attack":1,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-115_M2.tif:cc69acab2b6b435891ee2a0929a7c2a0","set":"THE_SUNKEN_CITY","nativeTags":[{"id":2,"name":"효과 수치 1","value":2},{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":2248,"name":"거수 부속","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/TSC_219t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-115_M2.tif:cc69acab2b6b435891ee2a0929a7c2a0","goldenMaterial":"TSC_219t2_PremiumCard.mat:345b550e40b20604e8d900c0a07d5bef","goldenAnimation":"TSC_219t2_PremiumCard.asset:c1844f523fc87514fa3a4130d07326b0"}}
+{
+  "2022-04-13": {
+    "id": "TSC_219t2",
+    "dbfId": 85853,
+    "name": "즈힐라그의 줄기",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "collectible": false,
+    "cost": 2,
+    "text": "내 턴이 끝날 때,<br></br>무작위 적에게<br></br>피해를 2 줍니다.",
+    "attack": 1,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-115_M2.tif:cc69acab2b6b435891ee2a0929a7c2a0",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 2
+      },
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 2248,
+        "name": "거수 부속",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/TSC_219t2.png"
+  }
+}

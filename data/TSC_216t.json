@@ -1,1 +1,78 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_216t","dbfId":72489,"name":"거수의 미끼","type":"MINION","cardClass":"PRIEST","collectible":false,"cost":2,"text":"내 턴이 끝날 때, 무작위 적 하수인이 검은바다 거수를 공격하게 만듭니다.","attack":1,"health":4,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-146_M1.tif:8d4ac3353ca24ced89e7c3dc6d65f8a9","set":"THE_SUNKEN_CITY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":2248,"name":"거수 부속","value":1},{"id":2469,"name":"거수 왼쪽 부속","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TSC_216t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-146_M1.tif:8d4ac3353ca24ced89e7c3dc6d65f8a9","goldenMaterial":"TSC_216t_PremiumCard.mat:fc2aaedbf49a594479af901038ba585d","goldenAnimation":"TSC_216t_PremiumCard.asset:4dbc563a0890c5f4b99b2318694f6a41"}}
+{
+  "2022-04-13": {
+    "id": "TSC_216t",
+    "dbfId": 72489,
+    "name": "거수의 미끼",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "collectible": false,
+    "cost": 2,
+    "text": "내 턴이 끝날 때, 무작위 적 하수인이 검은바다 거수를 공격하게 만듭니다.",
+    "attack": 1,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-146_M1.tif:8d4ac3353ca24ced89e7c3dc6d65f8a9",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 2248,
+        "name": "거수 부속",
+        "value": 1
+      },
+      {
+        "id": 2469,
+        "name": "거수 왼쪽 부속",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TSC_216t.png"
+  }
+}

@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_937t2","dbfId":72580,"name":"크래바토아 집게발","type":"WEAPON","cardClass":"ROGUE","collectible":false,"cost":1,"text":"","attack":2,"health":0,"durability":1,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-154_W.tif:861caabb93034a87803fd90847fca6af","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":7}],"races":[],"race":"","classes":[],"art":"art/TSC_937t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-154_W.tif:861caabb93034a87803fd90847fca6af","goldenMaterial":"TSC_937t2_PremiumCard.mat:baaca45a07aea934b98dcb5c9b0a535f","goldenAnimation":"TSC_937t2_PremiumCard.asset:f465ddc9a52562b419a5eaabe9c8620a"}}
+{
+  "2022-04-13": {
+    "id": "TSC_937t2",
+    "dbfId": 72580,
+    "name": "크래바토아 집게발",
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 2,
+    "health": 0,
+    "durability": 1,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-154_W.tif:861caabb93034a87803fd90847fca6af",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_937t2.png"
+  }
+}

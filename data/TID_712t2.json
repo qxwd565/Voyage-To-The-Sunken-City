@@ -1,1 +1,78 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TID_712t2","dbfId":80016,"name":"넵튤론의 손","type":"MINION","cardClass":"NEUTRAL","collectible":false,"cost":4,"text":"공격할 때 <b>면역</b> 상태가 됩니다.","attack":4,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-103_M2.tif:256b55bcd5854d11a7ba2a95831e54eb","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":240,"name":"면역","value":1},{"id":373,"name":"공격 중 면역","value":1},{"id":2248,"name":"거수 부속","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/TID_712t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-103_M2.tif:256b55bcd5854d11a7ba2a95831e54eb","goldenMaterial":"TID_712t2_PremiumCard.mat:d1ff7673d468bd548b6e66b3ba113271","goldenAnimation":"TID_712t2_PremiumCard.asset:53f3ff414ddffac489acb169723ca8bd"}}
+{
+  "2022-06-02": {
+    "id": "TID_712t2",
+    "dbfId": 80016,
+    "name": "넵튤론의 손",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 4,
+    "text": "공격할 때 <b>면역</b> 상태가 됩니다.",
+    "attack": 4,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-103_M2.tif:256b55bcd5854d11a7ba2a95831e54eb",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 240,
+        "name": "면역",
+        "value": 1
+      },
+      {
+        "id": 373,
+        "name": "공격 중 면역",
+        "value": 1
+      },
+      {
+        "id": 2248,
+        "name": "거수 부속",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/TID_712t2.png"
+  }
+}

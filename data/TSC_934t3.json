@@ -1,1 +1,41 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_934t3","dbfId":77504,"name":"함선 약탈!","type":"SPELL","cardClass":"ROGUE","collectible":false,"cost":0,"text":"공격력이 가장 높은 적 하수인을 가져옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-158_S.tif:ac63144b625e4f81b2a1970cf5d63de3","set":"THE_SUNKEN_CITY","nativeTags":[{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/TSC_934t3.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-158_S.tif:ac63144b625e4f81b2a1970cf5d63de3","goldenMaterial":"TSC_934t3_PremiumCard.mat:43130ad2631c9e14997654086686ecb7","goldenAnimation":"TSC_934t3_PremiumCard.asset:4fcc475ef66511641abad746feb2a07c"}}
+{
+  "2022-04-13": {
+    "id": "TSC_934t3",
+    "dbfId": 77504,
+    "name": "함선 약탈!",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "collectible": false,
+    "cost": 0,
+    "text": "공격력이 가장 높은 적 하수인을 가져옵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-158_S.tif:ac63144b625e4f81b2a1970cf5d63de3",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_934t3.png"
+  }
+}

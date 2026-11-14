@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_647","dbfId":72938,"name":"급강하 펠리컨","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>속공</b>, 1턴 동안 <b>휴면</b> 상태입니다.","attack":4,"health":1,"durability":0,"armor":0,"flavor":"부리가 엄청 커서 거수 하수인도 들어갈지도요. (당연히 안 들어갑니다.)","spellSchool":"","portrait":"HS25-082_M.tif:8f4097503d7d44a2895a0f87b655802f","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1},{"id":1518,"name":"휴면","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TSC_647.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-082_M.tif:8f4097503d7d44a2895a0f87b655802f","goldenMaterial":"TSC_647_PremiumCard.mat:d9b4a3a55bc3d14489a5968df6176ea4","goldenAnimation":"TSC_647_PremiumCard.asset:fdf56b5ecf6dedd499801566d9d695a2"}}
+{
+  "2022-04-13": {
+    "id": "TSC_647",
+    "dbfId": 72938,
+    "name": "급강하 펠리컨",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>속공</b>, 1턴 동안 <b>휴면</b> 상태입니다.",
+    "attack": 4,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "부리가 엄청 커서 거수 하수인도 들어갈지도요. (당연히 안 들어갑니다.)",
+    "spellSchool": "",
+    "portrait": "HS25-082_M.tif:8f4097503d7d44a2895a0f87b655802f",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1518,
+        "name": "휴면",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TSC_647.png"
+  }
+}

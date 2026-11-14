@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_076","dbfId":80112,"name":"영생하는 석상","type":"SPELL","cardClass":"PALADIN","rarity":"COMMON","collectible":true,"cost":7,"text":"<b>도발</b> 능력이 있는 4/8, 2/4, 1/2 정령을 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"'<b>죽음의 메아리:</b> 영생을 잃음.' 능력이 숨겨져 있습니다.","spellSchool":"HOLY","portrait":"HS25-217_S.tif:8c9eb4bea55649c78d196b81369aef2c","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":7},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":5}],"races":[],"race":"","classes":[],"art":"art/TSC_076.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-217_S.tif:8c9eb4bea55649c78d196b81369aef2c","goldenMaterial":"TSC_076_PremiumCard.mat:74d8c7b06810a6c47b27e68553fbb043","goldenAnimation":"TSC_076_PremiumCard.asset:f1b6bc9799816e54b88687aec786dd79"}}
+{
+  "2022-04-13": {
+    "id": "TSC_076",
+    "dbfId": 80112,
+    "name": "영생하는 석상",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>도발</b> 능력이 있는 4/8, 2/4, 1/2 정령을 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "'<b>죽음의 메아리:</b> 영생을 잃음.' 능력이 숨겨져 있습니다.",
+    "spellSchool": "HOLY",
+    "portrait": "HS25-217_S.tif:8c9eb4bea55649c78d196b81369aef2c",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_076.png"
+  }
+}

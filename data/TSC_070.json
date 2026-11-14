@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_070","dbfId":74755,"name":"작살총","type":"WEAPON","cardClass":"HUNTER","rarity":"RARE","collectible":true,"cost":3,"text":"내 영웅이 공격한 후에, <b>인양</b>합니다. 그 카드가 야수면, 비용이 (2) 감소합니다.","attack":3,"health":0,"durability":2,"armor":0,"flavor":"이리 와!","spellSchool":"","portrait":"HS25-020_W.tif:ce60ce0f253c40b0b6017765088e7068","set":"THE_SUNKEN_CITY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":7},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":2332,"name":"인양","value":1}],"races":[],"race":"","classes":[],"art":"art/TSC_070.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-020_W.tif:ce60ce0f253c40b0b6017765088e7068","goldenMaterial":"TSC_070_PremiumCard.mat:e8c0d3484096fb744b167df3bac75147","goldenAnimation":"TSC_070_PremiumCard.asset:b6847fe757e06794dae1fa76d998650f"}}
+{
+  "2022-04-13": {
+    "id": "TSC_070",
+    "dbfId": 74755,
+    "name": "작살총",
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "내 영웅이 공격한 후에, <b>인양</b>합니다. 그 카드가 야수면, 비용이 (2) 감소합니다.",
+    "attack": 3,
+    "health": 0,
+    "durability": 2,
+    "armor": 0,
+    "flavor": "이리 와!",
+    "spellSchool": "",
+    "portrait": "HS25-020_W.tif:ce60ce0f253c40b0b6017765088e7068",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2332,
+        "name": "인양",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_070.png"
+  }
+}

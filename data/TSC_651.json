@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_651","dbfId":73464,"name":"해초 공격","type":"SPELL","cardClass":"DRUID","rarity":"EPIC","collectible":true,"cost":3,"text":"하수인에게 피해를 $4 줍니다. 내 손에 있을 때 나가를 냈으면, 이번 턴에 내 영웅에게 공격력도 +4 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"왜 기계 주변에는 항상 무언가 엉켜있을까요?","spellSchool":"NATURE","portrait":"HS25-009_S.tif:5205489d06f54102aa73d168d3a9edc7","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/TSC_651.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-009_S.tif:5205489d06f54102aa73d168d3a9edc7","goldenMaterial":"TSC_651_PremiumCard.mat:3032dc26cdcb9574d92d06a937be1b47","goldenAnimation":"TSC_651_PremiumCard.asset:8a6bcf772b27b1f4d8da3e819d721b20"}}
+{
+  "2022-04-13": {
+    "id": "TSC_651",
+    "dbfId": 73464,
+    "name": "해초 공격",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 3,
+    "text": "하수인에게 피해를 $4 줍니다. 내 손에 있을 때 나가를 냈으면, 이번 턴에 내 영웅에게 공격력도 +4 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "왜 기계 주변에는 항상 무언가 엉켜있을까요?",
+    "spellSchool": "NATURE",
+    "portrait": "HS25-009_S.tif:5205489d06f54102aa73d168d3a9edc7",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_651.png"
+  }
+}

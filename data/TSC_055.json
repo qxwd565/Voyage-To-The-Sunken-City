@@ -1,1 +1,52 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_055","dbfId":72650,"name":"해저 관문","type":"SPELL","cardClass":"MAGE","rarity":"RARE","collectible":true,"cost":3,"text":"기계를 뽑습니다. 내 손에 있는 기계들의 비용이 (1) 감소합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"가성비가 중요하다고.","spellSchool":"","portrait":"HS25-027_S.tif:d85051e4dd4f4dacb82a7f2e054d0f54","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/TSC_055.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-027_S.tif:d85051e4dd4f4dacb82a7f2e054d0f54","goldenMaterial":"TSC_055_PremiumCard.mat:2024ee521e71f9146b4836dc4fd0e5bb","goldenAnimation":"TSC_055_PremiumCard.asset:c05511b418561c0489275d50a4d334e7"}}
+{
+  "2022-04-13": {
+    "id": "TSC_055",
+    "dbfId": 72650,
+    "name": "해저 관문",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "기계를 뽑습니다. 내 손에 있는 기계들의 비용이 (1) 감소합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "가성비가 중요하다고.",
+    "spellSchool": "",
+    "portrait": "HS25-027_S.tif:d85051e4dd4f4dacb82a7f2e054d0f54",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_055.png"
+  }
+}

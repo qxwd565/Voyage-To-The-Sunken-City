@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_083","dbfId":77018,"name":"해저 구원자","type":"MINION","cardClass":"PALADIN","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> <b>인양</b>, 그 카드가 하수인이면, 그 하수인에게 이 하수인의 공격력과 생명력을 부여합니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"\"거북 확보. 반창고와 뽀뽀 처방. 아야 제거 필요.\"","spellSchool":"","portrait":"HS25-134_M.tif:18284d2cb53747429ce75dc058a5b5af","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":5},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2332,"name":"인양","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/TSC_083.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-134_M.tif:18284d2cb53747429ce75dc058a5b5af","goldenMaterial":"TSC_083_PremiumCard.mat:778006859496372429b3290d341efa30","goldenAnimation":"TSC_083_PremiumCard.asset:0b42b5ab362e5204aae536142bda3ccd"}}
+{
+  "2022-04-13": {
+    "id": "TSC_083",
+    "dbfId": 77018,
+    "name": "해저 구원자",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> <b>인양</b>, 그 카드가 하수인이면, 그 하수인에게 이 하수인의 공격력과 생명력을 부여합니다.",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"거북 확보. 반창고와 뽀뽀 처방. 아야 제거 필요.\"",
+    "spellSchool": "",
+    "portrait": "HS25-134_M.tif:18284d2cb53747429ce75dc058a5b5af",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2332,
+        "name": "인양",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/TSC_083.png"
+  }
+}

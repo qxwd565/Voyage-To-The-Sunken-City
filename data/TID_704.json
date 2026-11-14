@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TID_704","dbfId":75072,"name":"화석 애호가","type":"MINION","cardClass":"DEMONHUNTER","rarity":"COMMON","collectible":true,"cost":2,"text":"내 영웅이 공격한 후에, 지옥 주문을 뽑습니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"조개화석이 국룰인거 아시죠?","spellSchool":"","portrait":"HS25-003_M.tif:08365be36b4e47e6a93f761c675acf3d","set":"THE_SUNKEN_CITY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/TID_704.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-003_M.tif:08365be36b4e47e6a93f761c675acf3d","goldenMaterial":"TID_704_PremiumCard.mat:5a83692b791eeaf4ea16905eaa67452f","goldenAnimation":"TID_704_PremiumCard.asset:39fe9ee67c04be54c8df58e3d19f8590"}}
+{
+  "2022-06-02": {
+    "id": "TID_704",
+    "dbfId": 75072,
+    "name": "화석 애호가",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "내 영웅이 공격한 후에, 지옥 주문을 뽑습니다.",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "조개화석이 국룰인거 아시죠?",
+    "spellSchool": "",
+    "portrait": "HS25-003_M.tif:08365be36b4e47e6a93f761c675acf3d",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TID_704.png"
+  }
+}

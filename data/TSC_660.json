@@ -1,1 +1,104 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_660","dbfId":74894,"name":"거대 트레샤돈 넬리","type":"MINION","cardClass":"WARRIOR","rarity":"LEGENDARY","collectible":true,"cost":7,"text":"<b>거수 +1</b>, <b>전투의 함성:</b> 넬리의 배에 태울 해적 셋을 <b>발견</b>합니다!","attack":5,"health":5,"durability":0,"armor":0,"flavor":"넬리를 민물에 사는 사촌 네시와 헷갈리지 마세요. 이 거대한 생물은 후크터스크가 아끼는 함선을 끌고 다니기 위해 길들였습니다.","spellSchool":"","portrait":"HS25-179_M.tif:56d2c97f7dfa498da1b1bf7bdce827ae","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":10},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1078,"name":"마우스를 올리면 카드 표시","value":74895},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":74895},{"id":1544,"name":"게임 태그 1544","value":1},{"id":2247,"name":"거수","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TSC_660.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-179_M.tif:56d2c97f7dfa498da1b1bf7bdce827ae","goldenMaterial":"TSC_660_PremiumCard.mat:b338fb77b2a5e5a4c8e22f7f1d7f5db6","goldenAnimation":"TSC_660_PremiumCard.asset:eab6181835e1ada49ba6f09c2a96d4e4"}}
+{
+  "2022-04-13": {
+    "id": "TSC_660",
+    "dbfId": 74894,
+    "name": "거대 트레샤돈 넬리",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>거수 +1</b>, <b>전투의 함성:</b> 넬리의 배에 태울 해적 셋을 <b>발견</b>합니다!",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "넬리를 민물에 사는 사촌 네시와 헷갈리지 마세요. 이 거대한 생물은 후크터스크가 아끼는 함선을 끌고 다니기 위해 길들였습니다.",
+    "spellSchool": "",
+    "portrait": "HS25-179_M.tif:56d2c97f7dfa498da1b1bf7bdce827ae",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1078,
+        "name": "마우스를 올리면 카드 표시",
+        "value": 74895
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 74895
+      },
+      {
+        "id": 1544,
+        "name": "게임 태그 1544",
+        "value": 1
+      },
+      {
+        "id": 2247,
+        "name": "거수",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TSC_660.png"
+  }
+}

@@ -1,1 +1,73 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_026t","dbfId":71828,"name":"콜락의 등껍질","type":"MINION","cardClass":"DRUID","collectible":false,"cost":5,"text":"<b>도발</b>, <b>죽음의 메아리:</b> 방어도를 +8 얻습니다.","attack":0,"health":8,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-013_M1.tif:14ff4be3c87147c19d7bb060665d5619","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":2248,"name":"거수 부속","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TSC_026t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-013_M1.tif:14ff4be3c87147c19d7bb060665d5619","goldenMaterial":"TSC_026t_PremiumCard.mat:09feebd2dc08fa446b2509a4ea2b7878","goldenAnimation":"TSC_026t_PremiumCard.asset:45a8250f63440fe4e869e6863e0a98d6"}}
+{
+  "2022-04-13": {
+    "id": "TSC_026t",
+    "dbfId": 71828,
+    "name": "콜락의 등껍질",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>도발</b>, <b>죽음의 메아리:</b> 방어도를 +8 얻습니다.",
+    "attack": 0,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-013_M1.tif:14ff4be3c87147c19d7bb060665d5619",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 2248,
+        "name": "거수 부속",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TSC_026t.png"
+  }
+}

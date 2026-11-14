@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_061","dbfId":73434,"name":"정원의 은총","type":"SPELL","cardClass":"PALADIN","rarity":"EPIC","collectible":true,"cost":10,"text":"하수인에게 +4/+4와 <b>천상의 보호막</b>을 부여합니다.\n이번 게임에서 내가 신성 주문에 소모한 마나 하나당 비용이 (1)씩 감소합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"마나를 던지고 기도하면 좋은 일이 생기지 않을까요?","spellSchool":"HOLY","portrait":"HS25-138_S.tif:e263e90f41bd4a4cbd17587ddcb34e97","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":10},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":5}],"races":[],"race":"","classes":[],"art":"art/TSC_061.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-138_S.tif:e263e90f41bd4a4cbd17587ddcb34e97","goldenMaterial":"TSC_061_PremiumCard.mat:c0f44aa241119dc428b7cccf3941711c","goldenAnimation":"TSC_061_PremiumCard.asset:36917c60c090cc347a6f2dee44e532c8"}}
+{
+  "2022-04-13": {
+    "id": "TSC_061",
+    "dbfId": 73434,
+    "name": "정원의 은총",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 10,
+    "text": "하수인에게 +4/+4와 <b>천상의 보호막</b>을 부여합니다.<br></br>이번 게임에서 내가 신성 주문에 소모한 마나 하나당 비용이 (1)씩 감소합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "마나를 던지고 기도하면 좋은 일이 생기지 않을까요?",
+    "spellSchool": "HOLY",
+    "portrait": "HS25-138_S.tif:e263e90f41bd4a4cbd17587ddcb34e97",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 10
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_061.png"
+  }
+}

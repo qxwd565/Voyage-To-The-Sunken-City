@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TID_700","dbfId":74988,"name":"무장 해제 정령","type":"MINION","cardClass":"PRIEST","rarity":"RARE","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 상대편에게\n<b>인양</b>해 줍니다. 그 카드의\n비용이 (6)이 됩니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"\"사이좋게 놀 줄 알게 되면 돌려드리죠.\"","spellSchool":"","portrait":"HS25-212_M.tif:f90e9a389c60423ba619e487eff2d308","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":2332,"name":"인양","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/TID_700.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-212_M.tif:f90e9a389c60423ba619e487eff2d308","goldenMaterial":"TID_700_PremiumCard.mat:636b6db1868938e449608221200e6a7e","goldenAnimation":"TID_700_PremiumCard.asset:11f3ac2f7d5813f4c8e64051294ceed9"}}
+{
+  "2022-06-02": {
+    "id": "TID_700",
+    "dbfId": 74988,
+    "name": "무장 해제 정령",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 상대편에게<br></br><b>인양</b>해 줍니다. 그 카드의<br></br>비용이 (6)이 됩니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"사이좋게 놀 줄 알게 되면 돌려드리죠.\"",
+    "spellSchool": "",
+    "portrait": "HS25-212_M.tif:f90e9a389c60423ba619e487eff2d308",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 2332,
+        "name": "인양",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/TID_700.png"
+  }
+}

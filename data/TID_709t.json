@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TID_709t","dbfId":72032,"name":"여군주 나즈자르","type":"MINION","cardClass":"MAGE","rarity":"LEGENDARY","collectible":false,"cost":5,"text":"<b>전투의 함성:</b>\n내 손에 있는 주문들의\n비용이 (1) 감소합니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-030_M3.tif:9debbbdbb011e724690899815d0067d3","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/TID_709t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-030_M3.tif:9debbbdbb011e724690899815d0067d3","goldenMaterial":"TID_709t3_PremiumCard.mat:be637a237b23c8744bf9c7af77b4fb4b","goldenAnimation":"TID_709t3_PremiumCard.asset:3c38d4fc930cf1c4893b65b562d9f0c3"}}
+{
+  "2022-06-02": {
+    "id": "TID_709t",
+    "dbfId": 72032,
+    "name": "여군주 나즈자르",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "LEGENDARY",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b><br></br>내 손에 있는 주문들의<br></br>비용이 (1) 감소합니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-030_M3.tif:9debbbdbb011e724690899815d0067d3",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/TID_709t.png"
+  }
+}

@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_074","dbfId":78113,"name":"코토리 라이트블레이드","type":"MINION","cardClass":"PALADIN","rarity":"LEGENDARY","collectible":true,"cost":2,"text":"이 하수인에게 신성 주문을 시전한 후에, 다른 아군 하수인에게 다시 시전합니다.","attack":2,"health":3,"durability":0,"armor":0,"flavor":"치유가 필요합니다.","spellSchool":"","portrait":"HS25-139_M.tif:de4098ff040f4861aabf05dececc703f","set":"THE_SUNKEN_CITY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":1059,"name":"게임 태그 1059","value":1}],"races":[],"race":"","classes":[],"art":"art/TSC_074.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-139_M.tif:de4098ff040f4861aabf05dececc703f","goldenMaterial":"TSC_074_PremiumCard.mat:1d36e02de051baf4fa417e9f39d68f1d","goldenAnimation":"TSC_074_PremiumCard.asset:872e7b2dc0bc3334ea9718ff34ab0143"}}
+{
+  "2022-04-13": {
+    "id": "TSC_074",
+    "dbfId": 78113,
+    "name": "코토리 라이트블레이드",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 2,
+    "text": "이 하수인에게 신성 주문을 시전한 후에, 다른 아군 하수인에게 다시 시전합니다.",
+    "attack": 2,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "치유가 필요합니다.",
+    "spellSchool": "",
+    "portrait": "HS25-139_M.tif:de4098ff040f4861aabf05dececc703f",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1059,
+        "name": "게임 태그 1059",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_074.png"
+  }
+}

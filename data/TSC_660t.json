@@ -1,1 +1,78 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_660t","dbfId":74895,"name":"넬리의 해적선","type":"MINION","cardClass":"WARRIOR","collectible":false,"cost":5,"text":"<b>도발</b>, <b>죽음의 메아리:</b>\n넬리의 해적 단원을 내 손으로 가져옵니다. 그 단원의 비용이 (1)이 됩니다.","attack":2,"health":6,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-179_M1.tif:a5ceb3a9418b4f578ae4f15fcb168b42","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":10},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":2248,"name":"거수 부속","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TSC_660t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-179_M1.tif:a5ceb3a9418b4f578ae4f15fcb168b42","goldenMaterial":"TSC_660t_PremiumCard.mat:ce5a26658b2f74e4db8f88f1a679eaba","goldenAnimation":"TSC_660t_PremiumCard.asset:6e8eccdcbfdc8464ab4d0b7df91dda86"}}
+{
+  "2022-04-13": {
+    "id": "TSC_660t",
+    "dbfId": 74895,
+    "name": "넬리의 해적선",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>도발</b>, <b>죽음의 메아리:</b><br></br>넬리의 해적 단원을 내 손으로 가져옵니다. 그 단원의 비용이 (1)이 됩니다.",
+    "attack": 2,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-179_M1.tif:a5ceb3a9418b4f578ae4f15fcb168b42",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 2248,
+        "name": "거수 부속",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TSC_660t.png"
+  }
+}

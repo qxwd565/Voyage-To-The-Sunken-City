@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_638t3","dbfId":80171,"name":"우두머리 피라냐","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":false,"cost":1,"text":"<b>속공</b>, 내가 우두머리 피라냐를 소환한 후에, 공격력을 +1 얻습니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-071_M.tif:3c98cdaf5e6a4091890629744b4eef7e","set":"THE_SUNKEN_CITY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":791,"name":"속공","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TSC_638t3.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-071_M.tif:3c98cdaf5e6a4091890629744b4eef7e","goldenMaterial":"TSC_638t3_PremiumCard.mat:b8edd67d119cb7c408100fa5a4a58ce4","goldenAnimation":"TSC_638t3_PremiumCard.asset:837a891145b4ba7438841e4632dd6a86"}}
+{
+  "2022-04-13": {
+    "id": "TSC_638t3",
+    "dbfId": 80171,
+    "name": "우두머리 피라냐",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>속공</b>, 내가 우두머리 피라냐를 소환한 후에, 공격력을 +1 얻습니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-071_M.tif:3c98cdaf5e6a4091890629744b4eef7e",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TSC_638t3.png"
+  }
+}

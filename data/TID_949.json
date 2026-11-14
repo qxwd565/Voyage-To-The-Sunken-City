@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TID_949","dbfId":80117,"name":"전선 대치","type":"SPELL","cardClass":"PALADIN","rarity":"EPIC","collectible":true,"cost":9,"text":"각 플레이어 모두 덱에서 하수인을 소환합니다. 한 전장을 가득 채울 때까지 반복합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"한쪽이 모래에 그은 선을 넘자, 파도의 왕좌가 걸린 전쟁이 시작되었습니다.","spellSchool":"","portrait":"HS25-141_S.tif:92d4826d9598485fa0a5a95ee8e7537e","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":9},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/TID_949.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-141_S.tif:92d4826d9598485fa0a5a95ee8e7537e","goldenMaterial":"TID_949_PremiumCard.mat:8e1b47f6cef044a42b5aef486ba616b6","goldenAnimation":"TID_949_PremiumCard.asset:6d18d25570ed11b4d998c596c6ef4046"}}
+{
+  "2022-06-02": {
+    "id": "TID_949",
+    "dbfId": 80117,
+    "name": "전선 대치",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 9,
+    "text": "각 플레이어 모두 덱에서 하수인을 소환합니다. 한 전장을 가득 채울 때까지 반복합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "한쪽이 모래에 그은 선을 넘자, 파도의 왕좌가 걸린 전쟁이 시작되었습니다.",
+    "spellSchool": "",
+    "portrait": "HS25-141_S.tif:92d4826d9598485fa0a5a95ee8e7537e",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 9
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TID_949.png"
+  }
+}

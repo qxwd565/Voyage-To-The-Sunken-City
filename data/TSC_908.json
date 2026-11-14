@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_908","dbfId":71781,"name":"해저 안내원 핀리 경","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":1,"text":"<b>전투의 함성:</b> 내 손에 있는\n모든 카드를 내 덱 맨\n아래에 있는 카드들과\n바꿉니다.","attack":1,"health":3,"durability":0,"armor":0,"flavor":"\"걱정 마시죠. 여기 지도를 보면 되지 않습니까. 이대로 계속 내려가라고 되어있군요!\"","spellSchool":"","portrait":"HS25-190_M.tif:de63514aa575496db9022207dab1ffca","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1932,"name":"다이아몬드 카드 존재","value":1}],"races":["MURLOC"],"race":"멀록","classes":[],"art":"art/TSC_908.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-190_M.tif:de63514aa575496db9022207dab1ffca","goldenMaterial":"TSC_908_PremiumCard.mat:5443385151e6cf34d82a48101cccb7f0","goldenAnimation":"TSC_908_PremiumCard.asset:4583e0c2f0cbfbe49b592f3ae7f5af04"}}
+{
+  "2022-04-13": {
+    "id": "TSC_908",
+    "dbfId": 71781,
+    "name": "해저 안내원 핀리 경",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b> 내 손에 있는<br></br>모든 카드를 내 덱 맨<br></br>아래에 있는 카드들과<br></br>바꿉니다.",
+    "attack": 1,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"걱정 마시죠. 여기 지도를 보면 되지 않습니까. 이대로 계속 내려가라고 되어있군요!\"",
+    "spellSchool": "",
+    "portrait": "HS25-190_M.tif:de63514aa575496db9022207dab1ffca",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1932,
+        "name": "다이아몬드 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MURLOC"
+    ],
+    "race": "멀록",
+    "classes": [],
+    "art": "art/TSC_908.png"
+  }
+}

@@ -1,1 +1,85 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_632","dbfId":72417,"name":"딸깍가재","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>천상의 보호막</b>, <b>전투의 함성:</b>\n내 손에 있는 무작위\n기계에 +1/+1을\n부여합니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"설명을 시작해볼까? 푸른색 가재는 애완용으로 인기가 많다는 사실이다.","spellSchool":"","portrait":"HS25-182_M.tif:9d89bf37761b446d9a6caa084e042a3c","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2542,"name":"게임 태그 2542","value":1}],"races":["MECHANICAL","BEAST"],"race":"기계, 야수","classes":[],"art":"art/TSC_632.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-182_M.tif:9d89bf37761b446d9a6caa084e042a3c","goldenMaterial":"TSC_632_PremiumCard.mat:d926a4b5e67f18a4fadcf5d29d9f9fa9","goldenAnimation":"TSC_632_PremiumCard.asset:6f4b82de855e24f49a7240b392812bfe"}}
+{
+  "2022-04-13": {
+    "id": "TSC_632",
+    "dbfId": 72417,
+    "name": "딸깍가재",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>천상의 보호막</b>, <b>전투의 함성:</b><br></br>내 손에 있는 무작위<br></br>기계에 +1/+1을<br></br>부여합니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "설명을 시작해볼까? 푸른색 가재는 애완용으로 인기가 많다는 사실이다.",
+    "spellSchool": "",
+    "portrait": "HS25-182_M.tif:9d89bf37761b446d9a6caa084e042a3c",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2542,
+        "name": "게임 태그 2542",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "race": "기계, 야수",
+    "classes": [],
+    "art": "art/TSC_632.png"
+  }
+}

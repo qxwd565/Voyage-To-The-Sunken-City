@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_927","dbfId":72336,"name":"아즈샤라 정원","type":"SPELL","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":1,"text":"내 손에 있는 모든 하수인에게\n+1/+1을 부여합니다.\n'가라앉은 정원'을 내 덱\n맨 아래에 놓습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"정원에 물을 주라고 했더니 이렇게 많이 주면 어떡해요?","spellSchool":"","portrait":"HS25-007_S.tif:75a6855aa0ab4dc1a5f757610eb76232","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":72337}],"races":[],"race":"","classes":[],"art":"art/TSC_927.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-007_S.tif:75a6855aa0ab4dc1a5f757610eb76232","goldenMaterial":"TSC_927_PremiumCard.mat:ad5fc6cb217bbd048a51a4b4dbe1acb1","goldenAnimation":"TSC_927_PremiumCard.asset:2313bf6e82a0f0c46921b55a74bb5945"}}
+{
+  "2022-04-13": {
+    "id": "TSC_927",
+    "dbfId": 72336,
+    "name": "아즈샤라 정원",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "내 손에 있는 모든 하수인에게<br></br>+1/+1을 부여합니다.<br></br>'가라앉은 정원'을 내 덱<br></br>맨 아래에 놓습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "정원에 물을 주라고 했더니 이렇게 많이 주면 어떡해요?",
+    "spellSchool": "",
+    "portrait": "HS25-007_S.tif:75a6855aa0ab4dc1a5f757610eb76232",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 72337
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_927.png"
+  }
+}

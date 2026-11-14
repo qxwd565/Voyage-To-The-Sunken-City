@@ -1,1 +1,99 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_026","dbfId":71712,"name":"콜락","type":"MINION","cardClass":"DRUID","rarity":"LEGENDARY","collectible":true,"cost":7,"text":"<b>거수 +1</b>, 내 전장에\n콜락의 등껍질이 있으면\n<b>면역</b> 상태가 됩니다.","attack":6,"health":5,"durability":0,"armor":0,"flavor":"만 년 전에, 진아즈샤리 도시는 바다 속으로 빠졌습니다. 그중 일부는 콜락의 등껍질 위로 떨어졌습니다.","spellSchool":"","portrait":"HS25-013_M.tif:a032528228a9424d8a5c6f4ff6b1da5b","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":240,"name":"면역","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1078,"name":"마우스를 올리면 카드 표시","value":71828},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":71828},{"id":1544,"name":"게임 태그 1544","value":1},{"id":2247,"name":"거수","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TSC_026.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-013_M.tif:a032528228a9424d8a5c6f4ff6b1da5b","goldenMaterial":"TSC_026_PremiumCard.mat:00770838a11448445b9541e7a001c293","goldenAnimation":"TSC_026_PremiumCard.asset:6cb1e477319d2ad44b24ce85d96a5323"}}
+{
+  "2022-04-13": {
+    "id": "TSC_026",
+    "dbfId": 71712,
+    "name": "콜락",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>거수 +1</b>, 내 전장에<br></br>콜락의 등껍질이 있으면<br></br><b>면역</b> 상태가 됩니다.",
+    "attack": 6,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "만 년 전에, 진아즈샤리 도시는 바다 속으로 빠졌습니다. 그중 일부는 콜락의 등껍질 위로 떨어졌습니다.",
+    "spellSchool": "",
+    "portrait": "HS25-013_M.tif:a032528228a9424d8a5c6f4ff6b1da5b",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 240,
+        "name": "면역",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1078,
+        "name": "마우스를 올리면 카드 표시",
+        "value": 71828
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 71828
+      },
+      {
+        "id": 1544,
+        "name": "게임 태그 1544",
+        "value": 1
+      },
+      {
+        "id": 2247,
+        "name": "거수",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TSC_026.png"
+  }
+}

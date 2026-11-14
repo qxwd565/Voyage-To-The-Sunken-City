@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_071","dbfId":74881,"name":"쌍궁 공포나가","type":"MINION","cardClass":"HUNTER","rarity":"RARE","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 내 손에\n있을 때 주문을 시전했으면,\n내 다음 주문을 2번\n시전합니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"투 샷 투 킬.","spellSchool":"","portrait":"HS25-016_M.tif:5a15ce56692a488095e8d8b356afb440","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/TSC_071.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-016_M.tif:5a15ce56692a488095e8d8b356afb440","goldenMaterial":"TSC_071_PremiumCard.mat:53a71ac418776fd41bdb467cfda1b05d","goldenAnimation":"TSC_071_PremiumCard.asset:beb309580fc33384da6ecc69374ee446"}}
+{
+  "2022-04-13": {
+    "id": "TSC_071",
+    "dbfId": 74881,
+    "name": "쌍궁 공포나가",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 내 손에<br></br>있을 때 주문을 시전했으면,<br></br>내 다음 주문을 2번<br></br>시전합니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "투 샷 투 킬.",
+    "spellSchool": "",
+    "portrait": "HS25-016_M.tif:5a15ce56692a488095e8d8b356afb440",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/TSC_071.png"
+  }
+}

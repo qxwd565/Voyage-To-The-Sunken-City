@@ -1,1 +1,78 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_937t","dbfId":72537,"name":"크래바토아의 집게발","type":"MINION","cardClass":"ROGUE","collectible":false,"cost":2,"text":"<b>속공</b>, <b>죽음의 메아리:</b> 2/1 집게발을 장착합니다.","attack":2,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-153_M1.tif:3cbd080410cc4749bfde87f0729a2580","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":7},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":791,"name":"속공","value":1},{"id":2248,"name":"거수 부속","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/TSC_937t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-153_M1.tif:3cbd080410cc4749bfde87f0729a2580","goldenMaterial":"TSC_937t_PremiumCard.mat:97ba9daf37d91454a85bbcacccaee67c","goldenAnimation":"TSC_937t_PremiumCard.asset:81304f35b07666b499e3028dcf5d230b"}}
+{
+  "2022-04-13": {
+    "id": "TSC_937t",
+    "dbfId": 72537,
+    "name": "크래바토아의 집게발",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>속공</b>, <b>죽음의 메아리:</b> 2/1 집게발을 장착합니다.",
+    "attack": 2,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-153_M1.tif:3cbd080410cc4749bfde87f0729a2580",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 2248,
+        "name": "거수 부속",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/TSC_937t.png"
+  }
+}

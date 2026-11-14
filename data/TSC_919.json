@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_919","dbfId":72212,"name":"아즈샤라 파수기","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":5,"text":"<b>도발</b>, <b>죽음의 메아리:</b> '가라앉은 파수기'를\n내 덱 맨 아래에 놓습니다.","attack":5,"health":6,"durability":0,"armor":0,"flavor":"누군가에겐 세계의 분리가 문명의 몰락이었지만, 코어 강화 운동으로 받아들인 이들도 있었습니다.","spellSchool":"","portrait":"HS25-076_M.tif:e4b4a6bf8e194582a59badf6de2d2d30","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":72213}],"races":[],"race":"","classes":[],"art":"art/TSC_919.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-076_M.tif:e4b4a6bf8e194582a59badf6de2d2d30","goldenMaterial":"TSC_919_PremiumCard.mat:6d4fa949571add74e84d97c12cbe66cc","goldenAnimation":"TSC_919_PremiumCard.asset:cf0ae34c79ec0814e9f3eb05359c451e"}}
+{
+  "2022-04-13": {
+    "id": "TSC_919",
+    "dbfId": 72212,
+    "name": "아즈샤라 파수기",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>도발</b>, <b>죽음의 메아리:</b> '가라앉은 파수기'를<br></br>내 덱 맨 아래에 놓습니다.",
+    "attack": 5,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "누군가에겐 세계의 분리가 문명의 몰락이었지만, 코어 강화 운동으로 받아들인 이들도 있었습니다.",
+    "spellSchool": "",
+    "portrait": "HS25-076_M.tif:e4b4a6bf8e194582a59badf6de2d2d30",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 72213
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_919.png"
+  }
+}

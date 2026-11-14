@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_932","dbfId":72473,"name":"바다에 흘린 피","type":"SPELL","cardClass":"ROGUE","rarity":"COMMON","collectible":true,"cost":6,"text":"적에게 피해를 $3 줍니다. <b>속공</b> 능력이 있는 5/5 상어를 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"물고기는 식량이 아닌 친구라고 강력히 주장합니다.","spellSchool":"","portrait":"HS25-048_S.tif:06216d1f60cb4aaca14021f7a79d5de3","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":72532}],"races":[],"race":"","classes":[],"art":"art/TSC_932.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-048_S.tif:06216d1f60cb4aaca14021f7a79d5de3","goldenMaterial":"TSC_932_PremiumCard.mat:478b34495e95fd4469e93e9e68022241","goldenAnimation":"TSC_932_PremiumCard.asset:b2a933fc8c2e8494eb056ee43142ba25"}}
+{
+  "2022-04-13": {
+    "id": "TSC_932",
+    "dbfId": 72473,
+    "name": "바다에 흘린 피",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 6,
+    "text": "적에게 피해를 $3 줍니다. <b>속공</b> 능력이 있는 5/5 상어를 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "물고기는 식량이 아닌 친구라고 강력히 주장합니다.",
+    "spellSchool": "",
+    "portrait": "HS25-048_S.tif:06216d1f60cb4aaca14021f7a79d5de3",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 72532
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_932.png"
+  }
+}

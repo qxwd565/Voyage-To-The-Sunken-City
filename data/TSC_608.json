@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_608","dbfId":71922,"name":"심연의 나락","type":"SPELL","cardClass":"DEMONHUNTER","rarity":"COMMON","collectible":true,"cost":3,"text":"비용이 가장 낮은 하수인을 둘 뽑습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"기쁜 위습의 소리가 들려옵니다.","spellSchool":"SHADOW","portrait":"HS25-111_S.tif:c0af6e3a1a524009b4db725736a7f35e","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/TSC_608.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-111_S.tif:c0af6e3a1a524009b4db725736a7f35e","goldenMaterial":"TSC_608_PremiumCard.mat:219cf8cf4f3b1cd49815b98875cdf38b","goldenAnimation":"TSC_608_PremiumCard.asset:f918a517fdf0fe041ad3c562d59e9dcb"}}
+{
+  "2022-04-13": {
+    "id": "TSC_608",
+    "dbfId": 71922,
+    "name": "심연의 나락",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "비용이 가장 낮은 하수인을 둘 뽑습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "기쁜 위습의 소리가 들려옵니다.",
+    "spellSchool": "SHADOW",
+    "portrait": "HS25-111_S.tif:c0af6e3a1a524009b4db725736a7f35e",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_608.png"
+  }
+}

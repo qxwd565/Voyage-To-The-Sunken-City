@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_776t","dbfId":77017,"name":"가라앉은 청소로봇","type":"MINION","cardClass":"MAGE","collectible":false,"cost":3,"text":"<b>전투의 함성:</b> 무작위 기계 셋을 내 손으로 가져옵니다. 그 기계들의 비용이 (1) 감소합니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-130_M.tif:ee8eac90c71b4abf8ce3514cb464d586","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":218,"name":"전투의 함성","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/TSC_776t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-130_M.tif:ee8eac90c71b4abf8ce3514cb464d586","goldenMaterial":"TSC_776t_PremiumCard.mat:90046d4a6c41ea147bb4bf8f63255586","goldenAnimation":"TSC_776t_PremiumCard.asset:c9232a1d18c89a54184d9a60a5069a5c"}}
+{
+  "2022-04-13": {
+    "id": "TSC_776t",
+    "dbfId": 77017,
+    "name": "가라앉은 청소로봇",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "collectible": false,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 무작위 기계 셋을 내 손으로 가져옵니다. 그 기계들의 비용이 (1) 감소합니다.",
+    "attack": 3,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-130_M.tif:ee8eac90c71b4abf8ce3514cb464d586",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/TSC_776t.png"
+  }
+}

@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_017","dbfId":71701,"name":"할매 나가","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 내 손에 있을 때 주문을 시전했으면, 피해를 3 줍니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"수면 위로 올라가려는 말 안 듣는 어린 나가들은 할매 나가가 잡아간다는 속설이 있죠.","spellSchool":"","portrait":"HS25-088_M.tif:01921b0fdb7740d58b518797ba27b0e8","set":"THE_SUNKEN_CITY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/TSC_017.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-088_M.tif:01921b0fdb7740d58b518797ba27b0e8","goldenMaterial":"TSC_017_PremiumCard.mat:44eb9115ea8e91543ac8e3fff85042e2","goldenAnimation":"TSC_017_PremiumCard.asset:f24579e17c362a846b0267537c17ed6d"}}
+{
+  "2022-04-13": {
+    "id": "TSC_017",
+    "dbfId": 71701,
+    "name": "할매 나가",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 내 손에 있을 때 주문을 시전했으면, 피해를 3 줍니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "수면 위로 올라가려는 말 안 듣는 어린 나가들은 할매 나가가 잡아간다는 속설이 있죠.",
+    "spellSchool": "",
+    "portrait": "HS25-088_M.tif:01921b0fdb7740d58b518797ba27b0e8",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/TSC_017.png"
+  }
+}

@@ -1,1 +1,51 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_641ta","dbfId":73732,"name":"파도의 반지","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"내가 주문을 시전한 후에, 비용이 (1)인 그 주문으로 변신합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-185_S.tif:c05b0abf8efa487682566ef879dbf652","set":"THE_SUNKEN_CITY","nativeTags":[{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":402,"name":"능력치 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/TSC_641ta.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-185_S.tif:c05b0abf8efa487682566ef879dbf652","goldenMaterial":"TSC_641ta_PremiumCard.mat:d75383d2c5391f94daa92617b160896e","goldenAnimation":"TSC_641ta_PremiumCard.asset:3b0b0311cca5a5a4585f3adf1aed8f2a"}}
+{
+  "2022-04-13": {
+    "id": "TSC_641ta",
+    "dbfId": 73732,
+    "name": "파도의 반지",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "내가 주문을 시전한 후에, 비용이 (1)인 그 주문으로 변신합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-185_S.tif:c05b0abf8efa487682566ef879dbf652",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 402,
+        "name": "능력치 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_641ta.png"
+  }
+}

@@ -1,1 +1,41 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_772t","dbfId":77211,"name":"가라앉은 두루마리","type":"SPELL","cardClass":"SHAMAN","collectible":false,"cost":1,"text":"내 직업의 화염, 냉기, 자연 주문을 내 손으로 가져옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS25-160_S.tif:67c02a37c2664bb6b3ea92ce79522a0e","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/TSC_772t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-160_S.tif:67c02a37c2664bb6b3ea92ce79522a0e","goldenMaterial":"TSC_772t_PremiumCard.mat:b499e8a0210c50a44bb1a1217f5b8c04","goldenAnimation":"TSC_772t_PremiumCard.asset:60f4614d9341354418bbbe7567547eaf"}}
+{
+  "2022-04-13": {
+    "id": "TSC_772t",
+    "dbfId": 77211,
+    "name": "가라앉은 두루마리",
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "collectible": false,
+    "cost": 1,
+    "text": "내 직업의 화염, 냉기, 자연 주문을 내 손으로 가져옵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS25-160_S.tif:67c02a37c2664bb6b3ea92ce79522a0e",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_772t.png"
+  }
+}

@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"TSC_650","dbfId":73462,"name":"바다 동물 친구들","type":"SPELL","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":5,"text":"<b>선택</b> - <b>도발</b> 능력이 있는\n6/6 범고래를 소환합니다.\n또는 <b>속공</b> 능력이 있는\n1/1 수달을 여섯 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"비록 바다 아래는 척박할지 몰라도, 친구들을 사귈 수 있습니다.","spellSchool":"NATURE","portrait":"HS25-117_S.tif:53f4de5dfb294ff1bd4b3ada6759d790","set":"THE_SUNKEN_CITY","nativeTags":[{"id":48,"name":"마나 비용","value":5},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":443,"name":"선택","value":1},{"id":791,"name":"속공","value":1},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/TSC_650.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS25-117_S.tif:53f4de5dfb294ff1bd4b3ada6759d790","goldenMaterial":"TSC_650_PremiumCard.mat:bf56ee6ed8b895e42a3f0831e98c152d","goldenAnimation":"TSC_650_PremiumCard.asset:b54b0c2bdfbfe2f479aabbb857002955"}}
+{
+  "2022-04-13": {
+    "id": "TSC_650",
+    "dbfId": 73462,
+    "name": "바다 동물 친구들",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>선택</b> - <b>도발</b> 능력이 있는<br></br>6/6 범고래를 소환합니다.<br></br>또는 <b>속공</b> 능력이 있는<br></br>1/1 수달을 여섯 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "비록 바다 아래는 척박할지 몰라도, 친구들을 사귈 수 있습니다.",
+    "spellSchool": "NATURE",
+    "portrait": "HS25-117_S.tif:53f4de5dfb294ff1bd4b3ada6759d790",
+    "set": "THE_SUNKEN_CITY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 443,
+        "name": "선택",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/TSC_650.png"
+  }
+}
